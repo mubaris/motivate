@@ -24,6 +24,14 @@ $ source ~/.bashrc
 
 zsh users should replace `.bashrc` with `.zshrc`.
 
+## Update Database
+
+```
+$ git clone https://github.com/mubaris/motivate.git
+$ cd motivate
+$ ./UPDATE
+```
+
 ## Usage
 
 ```
