@@ -19,7 +19,10 @@ python3
 $ git clone https://github.com/mubaris/motivate.git
 $ cd motivate
 $ ./INSTALL
+$ source ~/.bashrc
 ```
+
+zsh users should replace `.bashrc` with `.zshrc`.
 
 ## Usage
 
