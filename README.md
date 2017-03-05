@@ -18,7 +18,7 @@ python3
 ```
 $ git clone https://github.com/mubaris/motivate.git
 $ cd motivate
-$ ./INSTALL
+$ ./install.sh
 $ source ~/.bashrc
 ```
 
