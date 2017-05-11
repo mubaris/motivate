@@ -6,7 +6,8 @@ import random
 
 scriptpath = os.path.dirname(__file__)
 data_dir = os.path.join(scriptpath, 'data')
-num_of_json = len([f for f in os.listdir(data_dir)if os.path.isfile(os.path.join(data_dir, f))])
+num_of_json = len([f for f in os.listdir(data_dir)
+                   if os.path.isfile(os.path.join(data_dir, f))])
 rand_no = random.randint(1, num_of_json)
 filename = os.path.join(data_dir, str(rand_no).zfill(3) + '.json')
 
