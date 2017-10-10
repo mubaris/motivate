@@ -14,3 +14,8 @@ if [ -e $HOME/.zshrc ]
 	then
 	echo 'export PATH=$PATH:$HOME/.motivate' >> $HOME/.zshrc
 fi
+
+if [ -e $HOME/.config/fish/config.fish ]
+	then
+	echo 'set PATH $PATH $HOME/.motivate' >> $HOME/.config/fish/config.fish
+fi
