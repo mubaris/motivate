@@ -3,9 +3,9 @@
 import json
 import os
 import random
+from pathlib import Path
 
-scriptpath = os.path.dirname(__file__)
-data_dir = os.path.join(scriptpath, 'data')
+data_dir = os.path.join(Path.home(), '.motivate/data')
 num_of_json = len([f for f in os.listdir(data_dir)
                    if os.path.isfile(os.path.join(data_dir, f))])
 rand_no = random.randint(1, num_of_json)

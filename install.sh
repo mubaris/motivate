@@ -1,26 +1,17 @@
 #!/bin/bash
 
-mkdir -p $HOME/.motivate/data
-
-cp motivate.py $HOME/.motivate/motivate
-
-cp -r $PWD/data/ $HOME/.motivate
-
-chmod +x $HOME/.motivate/motivate
-
-echo 'export PATH=$PATH:$HOME/.motivate' >> $HOME/.bashrc
-
-if [ -e $HOME/.zshrc ]
-	then
-	echo 'export PATH=$PATH:$HOME/.motivate' >> $HOME/.zshrc
+if [[ $EUID -ne 0 ]]; then
+   echo "This script must be with sudo" 1>&2
+   exit 1
 fi
 
-if [ -e $HOME/.config/fish/config.fish ]
-	then
-	echo 'set PATH $PATH $HOME/.motivate' >> $HOME/.config/fish/config.fish
-fi
+HOMEDIR="/home/"$SUDO_USER
 
-if [ -e $HOME/.xonshrc ]
-	then
-	echo "\$PATH.append('$HOME/.motivate')" >> $HOME/.xonshrc
-fi
+# Create motivate folder
+mkdir -p $HOMEDIR/.motivate
+
+# Symlink the json datafolder
+ln -sf $PWD/data/ $HOMEDIR/.motivate/data
+
+# Copy the executable
+cp motivate.py /usr/local/bin/motivate
