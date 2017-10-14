@@ -1,5 +1,0 @@
-#!/bin/bash
-
-rm -rf $HOME/.motivate/data/*
-
-cp -r $PWD/data/ $HOME/.motivate
