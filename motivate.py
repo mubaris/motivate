@@ -5,7 +5,23 @@ import os
 import random
 from pathlib import Path
 
-data_dir = '/usr/local/share/motivate/data'
+
+def getlink(file):
+    if os.name == 'nt':
+        if os.path.islink(file):
+            path = os.path.dirname(os.readlink(file))
+        else:
+            path = os.path.dirname(file)
+    else:
+        if os.path.islink(file):
+            path = os.path.dirname(os.readlink(file))
+        else:
+            path = os.path.dirname(file)
+    return path
+
+
+abspath = getlink(__file__)
+data_dir = os.path.join(abspath, 'data')
 try:
     num_of_json = len([f for f in os.listdir(data_dir)
                        if os.path.isfile(os.path.join(data_dir, f))])
