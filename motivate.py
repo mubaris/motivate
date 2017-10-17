@@ -3,7 +3,6 @@
 import json
 import os
 import random
-from pathlib import Path
 
 
 def getlink(file):

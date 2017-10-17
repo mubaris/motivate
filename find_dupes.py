@@ -2,7 +2,6 @@
 
 import json
 import os
-import random
 
 scriptpath = os.path.dirname(__file__)
 data_dir = os.path.join(scriptpath, 'data')
