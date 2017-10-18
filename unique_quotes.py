@@ -2,7 +2,6 @@
 
 import json
 import os
-import random
 
 scriptpath = os.path.dirname(__file__)
 data_dir = os.path.join(scriptpath, 'data')
@@ -18,11 +17,10 @@ seen_quotes = set()
 for x in quotes:
 	if(x['quote'] not in seen_quotes):
 		unique_quotes += [x]
-		seen_quotes.add(x['quote'])
-		
+		seen_quotes.add(x['quote'])		
 with open('data_unique/unique_quotes.json', 'w') as outfile:
 	outfile.write(u'{ \"data\": [')
-	for i in range(len(unique_quotes)):
+	for i, _ in enumerate(unique_quotes):
 		if(i != 0):
 			outfile.write(u',')
 
