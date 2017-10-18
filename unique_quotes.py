@@ -15,14 +15,13 @@ for f in all_json:
 unique_quotes = []
 seen_quotes = set()
 for x in quotes:
-    if x['quote'] not in seen_quotes:
+    if(x['quote'] not in seen_quotes):
         unique_quotes += [x]
-        seen_quotes.add(x['quote'])
-
+        seen_quotes.add(x['quote'])		
 with open('data_unique/unique_quotes.json', 'w') as outfile:
     outfile.write(u'{ \"data\": [')
-    for i in range(len(unique_quotes)):
-        if i != 0:
+    for i, _ in enumerate(unique_quotes):
+        if(i != 0):
             outfile.write(u',')
 
         json.dump(unique_quotes[i], outfile, ensure_ascii=False, indent=4)
