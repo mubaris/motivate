@@ -5,7 +5,7 @@ setup(
     version='0.2',
     description='A simple script to print random motivational quotes.',
     url='https://github.com/mubaris/motivate',
-    download_url='https://github.com/mubaris/motivate/archive/0.1.tar.gz',
+    download_url='https://github.com/mubaris/motivate/archive/0.2.tar.gz',
     author='mubaris',
     author_email='mubarishassannk@gmail.com',
     license='MIT',
