@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+motivate/__init__.py
+motivate/find_dupes.py
+motivate/motivate.py
+motivate/unique_quotes.py
+motivate.egg-info/PKG-INFO
+motivate.egg-info/SOURCES.txt
+motivate.egg-info/dependency_links.txt
+motivate.egg-info/not-zip-safe
+motivate.egg-info/top_level.txt
