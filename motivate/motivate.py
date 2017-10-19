@@ -19,7 +19,7 @@ def getlink(file):
     return path
 
 
-def main():
+def quote():
     abspath = getlink(__file__)
     data_dir = os.path.join(abspath, 'data')
     try:
@@ -42,4 +42,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    quote()
