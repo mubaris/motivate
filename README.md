@@ -13,7 +13,7 @@ git
 python3
 ```
 
-## Installtion
+## Installation
 
 ### Linux/MacOS
 
