@@ -38,7 +38,7 @@ def quote():
         author = quotes["data"][ran_no]["author"]
         author = "\033[1;35m" + "--" + author + "\033[1;m"
         output = quote + "\n\t\t" + author
-        print(output)
+        print(output+'\x1b[0m')
 
 
 if __name__ == "__main__":
