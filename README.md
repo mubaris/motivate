@@ -28,10 +28,10 @@ zsh users should replace `.bashrc` with `.zshrc`.
 
 ### Windows
 
-Make sure you have Python3 on your path
-Clone the repository `git clone https://github.com/mubaris/motivate.git`
-Add the path to your local clone to your system path
-Run motivate from the command prompt.
+* Make sure you have Python3 on your path.
+* Clone the repository `git clone https://github.com/mubaris/motivate.git`.
+* Add the path to your local clone to your system path.
+* Run `py -3 motivate.py` from the command prompt.
 
 ## Update Database
 
