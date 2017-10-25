@@ -16,12 +16,12 @@ def getlink(file):
             path = os.path.dirname(os.readlink(file))
         else:
             path = os.path.dirname(file)
-    return path
+    return os.path.dirname(path)
 
 
 def quote():
     abspath = getlink(__file__)
-    data_dir = os.path.join(abspath, 'data')
+    data_dir = os.path.join(abspath, 'share', 'motivate', 'data')
     try:
         num_of_json = len([f for f in os.listdir(data_dir)
                            if os.path.isfile(os.path.join(data_dir, f))])
