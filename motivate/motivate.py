@@ -2,6 +2,7 @@
 
 import json
 import os
+import platform
 import random
 
 
@@ -34,9 +35,13 @@ def quote():
         quotes = json.load(json_data)
         ran_no = random.randint(1, len(quotes["data"])) - 1
         quote = quotes["data"][ran_no]["quote"]
-        quote = "\033[1;36m" + "\"" + quote + "\"" + "\033[1;m"
         author = quotes["data"][ran_no]["author"]
-        author = "\033[1;35m" + "--" + author + "\033[1;m"
+        if platform.system() == "Windows":
+            quote = "\"" + quote + "\""
+            author = "--" + author
+        else:
+            quote = "\033[1;36m" + "\"" + quote + "\"" + "\033[1;m"
+            author = "\033[1;35m" + "--" + author + "\033[1;m"
         output = quote + "\n\t\t" + author
         print(output)
 
