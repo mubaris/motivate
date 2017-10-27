@@ -1,3 +1,7 @@
+*.pyc
+env/
+venv/
+cache/
 .idea
 dist/
 motivate.egg-info/
