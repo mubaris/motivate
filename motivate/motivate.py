@@ -39,11 +39,13 @@ def quote():
         if platform.system() == "Windows":
             quote = "\"" + quote + "\""
             author = "--" + author
+            white_code = ""
         else:
             quote = "\033[1;36m" + "\"" + quote + "\"" + "\033[1;m"
             author = "\033[1;35m" + "--" + author + "\033[1;m"
+            white_code = "\x1b[0m"
         output = quote + "\n\t\t" + author
-        print(output+'\x1b[0m')
+        print(output + white_code)
 
 
 if __name__ == "__main__":
