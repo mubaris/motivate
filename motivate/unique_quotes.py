@@ -19,5 +19,5 @@ for x in quotes:
         seen_quotes.add(x['quote'])		
 
 with open('data_unique/unique_quotes.json', 'w') as unique_quotes_file:
-    json.dump({'data': list(unique_quotes)}, unique_quotes_file, indent=4)
+    json.dump({'data': list(unique_quotes)}, unique_quotes_file, indent=4, ensure_ascii=False)
     unique_quotes_file.write('\n')
