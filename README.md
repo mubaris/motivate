@@ -1,5 +1,9 @@
 # Motivate
 
+![Motivate](motivate.png)
+
+<br/>
+
 A simple script to print random motivational quotes. Highly influenced by linux command [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)).
 
 ## Features
