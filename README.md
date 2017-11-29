@@ -1,5 +1,7 @@
 # Motivate
 
+[![Join the chat at https://gitter.im/pymotivate/Lobby](https://badges.gitter.im/pymotivate/Lobby.svg)](https://gitter.im/pymotivate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Motivate](motivate.png)
 
 <br/>
