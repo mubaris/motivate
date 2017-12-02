@@ -55,3 +55,10 @@ $ motivate
 "When something is important enough, you do it even if the odds are not in your favor."
 		--Elon Musk
 ```
+
+## Contribution
+The most popular way to contribute is adding [new quotes](https://github.com/mubaris/motivate/issues/3). You do it by adding next JSON file in `motivate/data/` directory. The rule is 20 quotes per file.
+
+But any improvements are welcome - just open a pull request with some description.
+
+You're also welcome to discuss the idea on [Gitter Chat](https://gitter.im/pymotivate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
