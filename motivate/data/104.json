@@ -1,68 +1,68 @@
 {
 	"data": [
 	{
-		"Author": "Stephen C. Hogan", 
-		"Quote": "You can't have a million-dollar dream with a minimum-wage work ethic."}, {"Author": "George Bernard Shaw", "Quote": "When I was young, I observed that nine out of 10 things I did were failures. So I did 10 times more work."}, {"Author": "Henry Rollins", "Quote": "If you have an idea of what you want to do in your future, you must go at it with almost monastic obsession, be it music, the ballet or just a basic degree. You have to go at it single-mindedly and let nothing get in your way."}, {"Author": "William James", "Quote": "Give your dreams all you've got and you'll be amazed at the energy that comes out of you."
-		}, 
+		"author": "Stephen C. Hogan",
+		"quote": "You can't have a million-dollar dream with a minimum-wage work ethic."}, {"author": "George Bernard Shaw", "quote": "When I was young, I observed that nine out of 10 things I did were failures. So I did 10 times more work."}, {"author": "Henry Rollins", "quote": "If you have an idea of what you want to do in your future, you must go at it with almost monastic obsession, be it music, the ballet or just a basic degree. You have to go at it single-mindedly and let nothing get in your way."}, {"author": "William James", "quote": "Give your dreams all you've got and you'll be amazed at the energy that comes out of you."
+		},
 		{
-			"Author": "Sophia Loren", 
-			"Quote": "Many people think they want things, but they don't really have the strength, the discipline. They are weak. I believe that you get what you want if you want it badly enough."
-		}, 
+			"author": "Sophia Loren",
+			"quote": "Many people think they want things, but they don't really have the strength, the discipline. They are weak. I believe that you get what you want if you want it badly enough."
+		},
 		{
-			"Author": "Swami Sivananda", 
-			"Quote": "Put your heart, mind, intellect and soul even to your smallest acts. This is the secret of success."}, {"Author": "Martin Luther King, Jr.", "Quote": "If a man is called a street sweeper, he should sweep streets even as Michelangelo painted, or Beethoven composed music, or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and Earth will pause to say, 'Here lived a great street sweeper who did his job well.'"
-		}, 
+			"author": "Swami Sivananda",
+			"quote": "Put your heart, mind, intellect and soul even to your smallest acts. This is the secret of success."}, {"author": "Martin Luther King, Jr.", "quote": "If a man is called a street sweeper, he should sweep streets even as Michelangelo painted, or Beethoven composed music, or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and Earth will pause to say, 'Here lived a great street sweeper who did his job well.'"
+		},
 		{
-			"Author": "Pope Paul VI", 
-			"Quote": "All life demands struggle. Those who have everything given to them become lazy, selfish and insensitive to the real values of life. The very striving and hard work that we so constantly try to avoid is the major building block in the person we are today."
-		}, 
+			"author": "Pope Paul VI",
+			"quote": "All life demands struggle. Those who have everything given to them become lazy, selfish and insensitive to the real values of life. The very striving and hard work that we so constantly try to avoid is the major building block in the person we are today."
+		},
 		{
-			"Author": "Stephen King", 
-			"Quote": "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work."
-		}, 
+			"author": "Stephen King",
+			"quote": "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work."
+		},
 		{
-			"Author": "J.G. Holland", "Quote": 
+			"author": "J.G. Holland", "quote":
 			"God gives every bird its food, but He does not throw it into its nest."
-		}, 
+		},
 		{
-			"Author": "Edward H. Harriman", 
-			"Quote": "Much good work is lost for the lack of a little more."
-		}, 
+			"author": "Edward H. Harriman",
+			"quote": "Much good work is lost for the lack of a little more."
+		},
 		{
-			"Author": "Marvin Phillips (or an unknown author)", 
-			"Quote": "The difference between try and triumph is a little umph."
-		}, 
+			"author": "Marvin Phillips (or an unknown author)",
+			"quote": "The difference between try and triumph is a little umph."
+		},
 		{
-			"Author": "Garth Henrichs", 
-			"Quote": "The person who is waiting for something to turn up might start with their shirt sleeves."
-		}, 
+			"author": "Garth Henrichs",
+			"quote": "The person who is waiting for something to turn up might start with their shirt sleeves."
+		},
 		{
-			"Author": "Marcus Washling", 
-			"Quote": "Those at the top of the mountain didn't fall there."
-		}, 
+			"author": "Marcus Washling",
+			"quote": "Those at the top of the mountain didn't fall there."
+		},
 		{
-			"Author": "Robert Brault", 
-			"Quote": "If you feel you are down on your luck, check the level of your effort."
-		}, 
+			"author": "Robert Brault",
+			"quote": "If you feel you are down on your luck, check the level of your effort."
+		},
 		{
-			"Author": "Terri Guillemets", 
-			"Quote": "You're either changing your life or you're not. No waiting for this or that or better weather or other hurdles. Hurdles are the change."
-		}, 
+			"author": "Terri Guillemets",
+			"quote": "You're either changing your life or you're not. No waiting for this or that or better weather or other hurdles. Hurdles are the change."
+		},
 		{
-			"Author": "Chinese proverb", 
-			"Quote": "Be not afraid of going slowly. Be afraid only of standing still."
-		}, 
+			"author": "Chinese proverb",
+			"quote": "Be not afraid of going slowly. Be afraid only of standing still."
+		},
 		{
-			"Author": "Dutch proverb", 
-			"Quote": "He who is outside his door has the hardest part of his journey behind him."
-		}, 
+			"author": "Dutch proverb",
+			"quote": "He who is outside his door has the hardest part of his journey behind him."
+		},
 		{
-			"Author": "Margaret Thatcher", 
-			"Quote": "I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but should get you pretty near."
-		}, 
+			"author": "Margaret Thatcher",
+			"quote": "I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but should get you pretty near."
+		},
 		{
-			"Author": "George Bernard Shaw", 
-			"Quote": "The people who get on in this world are the people who get up and look for the circumstances they want, and, if they can\u00e2\u20ac\u2122t find them, make them."
+			"author": "George Bernard Shaw",
+			"quote": "The people who get on in this world are the people who get up and look for the circumstances they want, and, if they can\u00e2\u20ac\u2122t find them, make them."
 		}
 	]
 }

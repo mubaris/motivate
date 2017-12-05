@@ -29,13 +29,17 @@ def quote():
     except FileNotFoundError:
         print("Can't find the data folder. You probably haven't run 'install.sh' yet.")
         exit(1)
+
     rand_no = random.randint(1, num_of_json)
     filename = os.path.join(data_dir, str(rand_no).zfill(3) + '.json')
+
     with open(filename) as json_data:
         quotes = json.load(json_data)
         ran_no = random.randint(1, len(quotes["data"])) - 1
+
         quote = quotes["data"][ran_no]["quote"]
         author = quotes["data"][ran_no]["author"]
+
         if platform.system() == "Windows":
             quote = "\"" + quote + "\""
             author = "--" + author
