@@ -32,6 +32,16 @@ $ source ~/.bashrc
 
 zsh users should replace `.bashrc` with `.zshrc`.
 
+If you have no root priviledge, install in this way:
+```
+$ git clone https://github.com/mubaris/motivate.git
+$ cd motivate
+ln -s $PWD/motivate/motivate.py moti
+ln -s $PWD/dummy.sh mmoti
+export PATH=$PWD:$PATH
+```
+Later you can run by calling `moti` (a single run) or `mmoti` (keep running until you break it).
+
 ### Windows
 
 * Make sure you have Python3 on your path.

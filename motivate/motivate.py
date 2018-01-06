@@ -21,8 +21,11 @@ def getlink(file):
 
 
 def quote():
-    abspath = getlink(__file__)
-    data_dir = os.path.join(abspath, 'share', 'motivate', 'data')
+    abspath = getlink(__file__) 
+    if abspath == '/usr/local':
+        data_dir = os.path.join(abspath, 'share', 'motivate', 'data')
+    else:
+        data_dir = os.path.join(abspath, 'motivate', 'data')
     try:
         num_of_json = len([f for f in os.listdir(data_dir)
                            if os.path.isfile(os.path.join(data_dir, f))])
