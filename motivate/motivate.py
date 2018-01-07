@@ -21,7 +21,7 @@ def getlink(file):
 
 
 def quote():
-    abspath = getlink(__file__) 
+    abspath = getlink(__file__)
     if abspath == '/usr/local':
         data_dir = os.path.join(abspath, 'share', 'motivate', 'data')
     else:
@@ -35,7 +35,24 @@ def quote():
     rand_no = random.randint(1, num_of_json)
     filename = os.path.join(data_dir, str(rand_no).zfill(3) + '.json')
     with open(filename) as json_data:
-        quotes = json.load(json_data)
+        try:
+            quotes = json.load(json_data)
+        except ValueError:
+            print ("---------------Debug info begins:--------------")
+            print("Oops, we met a ValueError.")
+            print("Please check this file "+filename)
+            print("1. A Possible reason is that there is a redundant comma behind last group of author/quote in this json file.")
+            print("   If so, delete that redundant comma, then it will run smoothly.")
+            print("2. Another possible reason is that there is hard line-break or tab in that file.")
+            print("   However JSON don't support that. Please use '\\n' or '\\t'.")
+            print("For later actions, I help you wrote this filename to JSON_ERROR_LIST.txt.")
+            print("I suggest you to test those json file in this website: jsonlint.com")
+            f_tmp = open('JSON_ERROR_LIST.txt', "a")
+            f_tmp.write(filename+"\n")
+            f_tmp.close()
+            print ("---------------Debug info ends:--------------")
+            return
+
         ran_no = random.randint(1, len(quotes["data"])) - 1
         if "quote" in quotes["data"][ran_no]:
             quote = quotes["data"][ran_no]["quote"]
