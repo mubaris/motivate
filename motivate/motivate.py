@@ -37,18 +37,36 @@ def quote():
     with open(filename) as json_data:
         quotes = json.load(json_data)
         ran_no = random.randint(1, len(quotes["data"])) - 1
-        quote = quotes["data"][ran_no]["quote"]
-        author = quotes["data"][ran_no]["author"]
-        if platform.system() == "Windows":
-            quote = "\"" + quote + "\""
-            author = "--" + author
-            white_code = ""
+        if "quote" in quotes["data"][ran_no]:
+            quote = quotes["data"][ran_no]["quote"]
+            author = quotes["data"][ran_no]["author"]
+            if platform.system() == "Windows":
+                quote = "\"" + quote + "\""
+                author = "--" + author
+                white_code = ""
+            else:
+                quote = "\033[1;36m" + "\"" + quote + "\"" + "\033[1;m"
+                author = "\033[1;35m" + "--" + author + "\033[1;m"
+                white_code = "\x1b[0m"
+            output = quote + "\n\t\t" + author
+            print(output + white_code)
         else:
-            quote = "\033[1;36m" + "\"" + quote + "\"" + "\033[1;m"
-            author = "\033[1;35m" + "--" + author + "\033[1;m"
-            white_code = "\x1b[0m"
-        output = quote + "\n\t\t" + author
-        print(output + white_code)
+            print ("---------------Debug info begins:--------------")
+            print("This is a message indicating an error in your json database:")
+            print("No key 'quote' is found in the file: "+filename+", item_index = "+str(ran_no))
+            print("Possibly this json file uses capitalized inital letter in its key.")
+            print("You might need to change substitute 'Quote' to 'quote', and 'Author' to 'author'.")
+            print("Try to print this problematic item:\n"+str(quotes["data"][ran_no]))
+            print ("---------------Debug info ends:--------------")
+            cmd_tmp = 'sed -i "s/\"Author\"/\"author\"/g; s/\"Quote\"/\"quote\"/g" '+filename
+            print("Try to fix the problem by using command:")
+            print(cmd_tmp)
+            os.system(cmd_tmp)
+            print("Let's check the output:")
+            f_tmp = open(filename)
+            quotes = json.load(f_tmp)
+            print(str(quotes["data"][ran_no]))
+            print("Hopfully this problem has been solved.")
 
 
 if __name__ == "__main__":
