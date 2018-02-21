@@ -1,6 +1,7 @@
+
 import re
 import json
-import random
+import secrets
 from urllib.parse import urlsplit
 
 import requests
@@ -18,8 +19,10 @@ class QuotesApi:
 
         return "{0.scheme}//{0.netloc}".format(split_res)
 
-    def _fetch(self, url):
-        response = requests.get(url)
+    def _fetch_data(self):
+        assert self.url is not None
+
+        response = requests.get(self.url)
 
         if response.status_code in [400, 404]:
             raise Exception(response.reason)
@@ -27,11 +30,11 @@ class QuotesApi:
         return response.text
 
     def _parse(self, data):
-        raise NotImplemented
+        raise NotImplementedError
 
     def get_random_quote(self):
         try:
-            data = self._fetch(self.url)
+            data = self._fetch_data()
         except Exception as e:
             raise QuotesApiException(
                 u"Failed to fetch quote from %s: %s",
@@ -86,4 +89,4 @@ def clean_content(content):
 
 
 def get_random_quote():
-    return random.choice(QUOTE_APIS).get_random_quote()
+    return secrets.choice(QUOTE_APIS).get_random_quote()
