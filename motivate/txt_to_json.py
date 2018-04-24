@@ -35,7 +35,5 @@ if __name__ == "__main__":
 
 	with open('quotes.json', 'w') as j:
 		json.dump(final_dictionary, j)
-	
+
 	print("Sucess! Result file: quotes.json")
-
-
