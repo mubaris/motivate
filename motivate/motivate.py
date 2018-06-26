@@ -7,16 +7,11 @@ import random
 
 
 def getlink(file):
-    if os.name == 'nt':
-        if os.path.islink(file):
-            path = os.path.dirname(os.readlink(file))
-        else:
-            path = os.path.dirname(file)
+    if os.path.islink(file):
+        path = os.path.dirname(os.readlink(file))
     else:
-        if os.path.islink(file):
-            path = os.path.dirname(os.readlink(file))
-        else:
-            path = os.path.dirname(file)
+        path = os.path.dirname(file)
+
     return os.path.dirname(path)
 
 
