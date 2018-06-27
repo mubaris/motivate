@@ -2,7 +2,6 @@
 
 import json
 import os
-import platform
 import random
 
 
@@ -55,7 +54,7 @@ def quote():
         if "quote" in quotes["data"][ran_no]:
             quote = quotes["data"][ran_no]["quote"]
             author = quotes["data"][ran_no]["author"]
-            if platform.system() == "Windows":
+            if os.name == "nt":
                 quote = "\"" + quote + "\""
                 author = "--" + author
                 white_code = ""
