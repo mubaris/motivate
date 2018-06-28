@@ -5,13 +5,15 @@ if [[ $EUID -ne 0 ]]; then
    exit 1
 fi
 
-INSTALLDIR="/usr/local/share"
+INSTALLDIR="/opt/motivate"
 
 # Create motivate folder
-mkdir -p $INSTALLDIR/motivate
+mkdir -p $INSTALLDIR
 
-# Symlink the json datafolder
-ln -sf $PWD/data/ $INSTALLDIR/motivate/data
+# Copy the datafolder and set permissions
+cp -r $PWD/data $INSTALLDIR/
+chmod -R 777 $INSTALLDIR/data
 
-# Copy the executable
-cp motivate.py /usr/local/bin/motivate
+# Copy and link the executable
+cp motivate.py $INSTALLDIR
+ln -s $INSTALLDIR/motivate.py /usr/local/bin/motivate

@@ -2,7 +2,6 @@
 
 import json
 import os
-import platform
 import random
 
 
@@ -17,16 +16,19 @@ def getlink(file):
 
 def quote():
     abspath = getlink(__file__)
-    if abspath == '/usr/local':
-        data_dir = os.path.join(abspath, 'share', 'motivate', 'data')
-    else:
+
+    if os.name == 'nt':
         data_dir = os.path.join(abspath, 'motivate', 'data')
+    else:
+        data_dir = os.path.join('/opt', 'motivate', 'data')
+
     try:
         num_of_json = len([f for f in os.listdir(data_dir)
                            if os.path.isfile(os.path.join(data_dir, f))])
     except FileNotFoundError:
         print("Can't find the data folder. You probably haven't run 'install.sh' yet.")
         exit(1)
+
     rand_no = random.randint(1, num_of_json)
     filename = os.path.join(data_dir, str(rand_no).zfill(3) + '.json')
     with open(filename) as json_data:
@@ -52,7 +54,7 @@ def quote():
         if "quote" in quotes["data"][ran_no]:
             quote = quotes["data"][ran_no]["quote"]
             author = quotes["data"][ran_no]["author"]
-            if platform.system() == "Windows":
+            if os.name == "nt":
                 quote = "\"" + quote + "\""
                 author = "--" + author
                 white_code = ""
