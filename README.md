@@ -16,7 +16,7 @@ A simple script to print random motivational quotes. Highly influenced by linux 
 
 ```
 git
-python3
+python 3x
 ```
 
 ## Installation
