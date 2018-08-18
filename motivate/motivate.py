@@ -3,6 +3,7 @@
 import json
 import os
 import random
+import argparse
 
 
 def getlink(file):
@@ -54,7 +55,7 @@ def quote():
         if "quote" in quotes["data"][ran_no]:
             quote = quotes["data"][ran_no]["quote"]
             author = quotes["data"][ran_no]["author"]
-            if os.name == "nt":
+            if os.name == "nt" or args.nocolor:
                 quote = "\"" + quote + "\""
                 author = "--" + author
                 white_code = ""
@@ -84,4 +85,8 @@ def quote():
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='A simple script to print random motivational quotes.')
+    parser.add_argument('--no-colors', dest='nocolor', default=False, action='store_true', help='Argument to disable colored output. Disabled by default.')
+    args = parser.parse_args()
+
     quote()
