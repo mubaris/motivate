@@ -30,7 +30,7 @@ $ sudo ./install.sh
 $ source ~/.bashrc
 ```
 
-zsh users should replace `.bashrc` with `.zshrc`.
+> zsh users should replace `.bashrc` with `.zshrc`.
 
 If you have no root priviledge, install in this way:
 ```
