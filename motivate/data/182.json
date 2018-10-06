@@ -1,27 +1,103 @@
-[
-	"The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man. ― George Bernard Shaw",
-	"Although the world is full of suffering, it is also full of the overcoming of it. ― Helen Keller",
-	"Difficulties are things that show a person who they are. ― Epictetus",
-	"If you watch how nature deals with adversity, continually renewing itself, you can't help but learn. ― Bernie Siegel",
-	"He that is good for making excuses is seldom good for anything else. ― Benjamin Franklin",
-	"Never throughout history has a man who lived a life of ease left a name worth remembering. ― Theodore Roosevelt",
-	"In prosperity our friends know us - in adversity, we know our friends. ― John Churton Collins",
-	"It's the repetition of affirmations that leads to belief, and once that belief becomes a firm conviction, things begin to happen. ― Claude M. Bristol",
-	"You simply will not be the same two months from now after consciously giving thanks each and every day for the abundance that exists in your life. You will set in motion an ancient spiritual law: the more you have and are grateful for, the more will be given to you. ― Sarah Ban Breathnach",
-	"Calm self-confidence is as far from conceit as the desire to earn a decent living is remote from greed. ― Channing Pollock",
-	"Don't let the noise of others' opinions drown out your own inner voice. ― Steve Jobs",
-	"Think positively and masterfully, with confidence and faith, and life becomes more secure, more fraught with action, richer in achievement and experience. ― Eddie Rickenbacker",
-	"Confidence is a habit that can be developed by acting as if you already had the confidence you desire to have. ― Brian Tracy",
-	"The barrier between success is not something which exists in the real world: it is composed purely and simply of doubts about ability. ― Franklin D. Roosevelt",
-	"Life without love is like a tree without blossoms or fruit. ― Khalil Gibran",
-	"Today I begin to understand what love must be... When we are parted, we each feel the lack of the other half of ourselves. We are incomplete like a book in two volumes of which the first has been lost. ― Edmond de Goncourt",
-	"Being deeply loved by someone gives you strength while loving someone deeply gives you courage. ― Lao Tzu",
-	"I love you, not only for what you are but for what I am when I am with you. ― Ray Croft",
-	"Keep love in your heart. A life without it is like a sunless garden when the flowers are dead. The consciousness of loving and being loved brings a warmth and a richness to life that nothing else can bring. ― Oscar Wilde",
-	"Build for your team a sense of oneness, of depending on one another, and of strength to be derived by unity. ― Vince Lombardi",
-	"Love is our true essence. Love has no limitations of caste, religion, race, or nationality. We are all beads strung together on the same thread of love. To awaken this unity--and to spread to others the love that is our inherent nature--is the true goal of human life. ― Ammachi",
-	"The intellect always cuts and divides like a pair of scissors. The heart sews things together and unites like a needle. The tailor uses both. ― Ammachi",
-	"You and I are all as much continuous with the physical universe as a wave is continuous with the ocean. ― Alan Watts",
-	"Differences in religious beliefs, politics, social status, and position are all secondary. When we look at someone with compassion, we are able to see beyond these secondary differences and connect to the primary essence that binds all humans together as one. ― Dalai Lama",
-	"For Aristotle, friendship in its highest form has a political or civic dimension. We love our friends not just because we like each other or are useful to each other, but because we share the same values and ideals for our society, and come together to advance those ideals. ― Jules Evans"
-]
+{
+	"data": [{
+			"quote": "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.",
+			"author": "George Bernard Shaw"
+		},
+		{
+			"quote": "Although the world is full of suffering, it is also full of the overcoming of it.",
+			"author": "Helen Keller"
+		},
+		{
+			"quote": "Difficulties are things that show a person who they are.",
+			"author": "Epictetus"
+		},
+		{
+			"quote": "If you watch how nature deals with adversity, continually renewing itself, you can't help but learn.",
+			"author": "Bernie Siegel"
+		},
+		{
+			"quote": "He that is good for making excuses is seldom good for anything else.",
+			"author": "Benjamin Franklin"
+		},
+		{
+			"quote": "Never throughout history has a man who lived a life of ease left a name worth remembering.",
+			"author": "Theodore Roosevelt"
+		},
+		{
+			"quote": "In prosperity our friends know us - in adversity, we know our friends.",
+			"author": "John Churton Collins"
+		},
+		{
+			"quote": "It's the repetition of affirmations that leads to belief, and once that belief becomes a firm conviction, things begin to happen.",
+			"author": "Claude M. Bristol"
+		},
+		{
+			"quote": "You simply will not be the same two months from now after consciously giving thanks each and every day for the abundance that exists in your life. You will set in motion an ancient spiritual law: the more you have and are grateful for, the more will be given to you.",
+			"author": "Sarah Ban Breathnach"
+		},
+		{
+			"quote": "Calm self-confidence is as far from conceit as the desire to earn a decent living is remote from greed.",
+			"author": "Channing Pollock"
+		},
+		{
+			"quote": "Don't let the noise of others' opinions drown out your own inner voice.",
+			"author": "Steve Jobs"
+		},
+		{
+			"quote": "Think positively and masterfully, with confidence and faith, and life becomes more secure, more fraught with action, richer in achievement and experience.",
+			"author": "Eddie Rickenbacker"
+		},
+		{
+			"quote": "Confidence is a habit that can be developed by acting as if you already had the confidence you desire to have.",
+			"author": "Brian Tracy"
+		},
+		{
+			"quote": "The barrier between success is not something which exists in the real world: it is composed purely and simply of doubts about ability.",
+			"author": "Franklin D. Roosevelt"
+		},
+		{
+			"quote": "Life without love is like a tree without blossoms or fruit.",
+			"author": "Khalil Gibran"
+		},
+		{
+			"quote": "Today I begin to understand what love must be... When we are parted, we each feel the lack of the other half of ourselves. We are incomplete like a book in two volumes of which the first has been lost.",
+			"author": "Edmond de Goncourt"
+		},
+		{
+			"quote": "Being deeply loved by someone gives you strength while loving someone deeply gives you courage.",
+			"author": "Lao Tzu"
+		},
+		{
+			"quote": "I love you, not only for what you are but for what I am when I am with you.",
+			"author": "Ray Croft"
+		},
+		{
+			"quote": "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead. The consciousness of loving and being loved brings a warmth and a richness to life that nothing else can bring.",
+			"author": "Oscar Wilde"
+		},
+		{
+			"quote": "Build for your team a sense of oneness, of depending on one another, and of strength to be derived by unity.",
+			"author": "Vince Lombardi"
+		},
+		{
+			"quote": "Love is our true essence. Love has no limitations of caste, religion, race, or nationality. We are all beads strung together on the same thread of love. To awaken this unity--and to spread to others the love that is our inherent nature--is the true goal of human life.",
+			"author": "Ammachi"
+		},
+		{
+			"quote": "The intellect always cuts and divides like a pair of scissors. The heart sews things together and unites like a needle. The tailor uses both.",
+			"author": "Ammachi"
+		},
+		{
+			"quote": "You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.",
+			"author": "Alan Watts"
+		},
+		{
+			"quote": "Differences in religious beliefs, politics, social status, and position are all secondary. When we look at someone with compassion, we are able to see beyond these secondary differences and connect to the primary essence that binds all humans together as one.",
+			"author": "Dalai Lama"
+		},
+		{
+			"quote": "For Aristotle, friendship in its highest form has a political or civic dimension. We love our friends not just because we like each other or are useful to each other, but because we share the same values and ideals for our society, and come together to advance those ideals.",
+			"author": "Jules Evan"
+		}
+	]
+}
