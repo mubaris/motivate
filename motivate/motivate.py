@@ -61,7 +61,7 @@ def quote():
                 white_code = ""
             else:
                 quote = "\033[1;36m" + "\"" + quote + "\"" + "\033[1;m"
-                author = "\033[1;35m" + "--" + author + "\033[1;m"
+                author = "\033[38;5;196m" + "--" + author + "\033[1;m"
                 white_code = "\x1b[0m"
             output = quote + "\n\t\t" + author
             print(output + white_code)
