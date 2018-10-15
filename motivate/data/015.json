@@ -1,16 +1,84 @@
 {
     "data": [
-       {
-            "quote": "Technology is a useful servant but a dangerous master.",
-            "author": "Christian Lous Lange"
-       },
-       {
-            "quote": "The science of today is the technology of tomorrow",
-            "author": "Edward Teller"
-       },
-       {
-            "quote": "The only constant in the technology industry is change",
-            "author": "Marc Benioff"
-       }
-	]
+        {
+            "author": "Arthur C. Clarke",
+            "quote": "The limits of the possible can only be defined by going beyond them into the impossible."
+        },
+        {
+            "author": "Sylvester Stallone",
+            "quote": "I believe there's an inner power that makes winners or losers. And the winners are the ones who really listen to the truth of their hearts."
+        },
+        {
+            "author": "Kevin Brownlow",
+            "quote": "Silent pictures show us how we lived and what our attitudes were. And as an art form, they can be wonderfully entertaining and often inspirational."
+        },
+        {
+            "author": "Ralph Marston",
+            "quote": "What you do today can improve all your tomorrows."
+        },
+        {
+            "author": "Saint Augustine",
+            "quote": "Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility."
+        },
+        {
+            "author": "Taisen Deshimaru",
+            "quote": "Think with your whole body."
+        },
+        {
+            "author": "Lenny Kravitz",
+            "quote": "People always accuse me of being motivational in a way, like it was a bad thing, but that's just how I was raised. My mom raised me in a positive environment, with lots of love in my heart, and that reflects in my music."
+        },
+        {
+            "author": "Benjamin Disraeli",
+            "quote": "Success is the child of audacity."
+        },
+        {
+            "author": "Mindy Kaling",
+            "quote": "I try not to put anything political on the forefront of what I'm trying to do creatively. At the same time, I do think it's wonderful when I hear people say that it's inspirational that I'm an Indian woman on camera. My life is very diverse, and my friends are a diverse group of people."
+        },
+        {
+            "author": "Monty Hall",
+            "quote": "Actually, I'm an overnight success, but it took twenty years."
+        },
+        {
+            "author": "W. Clement Stone",
+            "quote": "Prayer is man's greatest power!"
+        },
+        {
+            "author": "John Burroughs",
+            "quote": "If you think you can do it, you can."
+        },
+        {
+            "author": "Bo Bennett",
+            "quote": "Frustration, although quite painful at times, is a very positive and essential part of success."
+        },
+        {
+            "author": "William James",
+            "quote": "Success or failure depends more upon attitude than upon capacity successful men act as though they have accomplished or are enjoying something. Soon it becomes a reality. Act, look, feel successful, conduct yourself accordingly, and you will be amazed at the positive results."
+        },
+        {
+            "author": "H. Jackson Brown, Jr.",
+            "quote": "We're constantly striving for success, fame and comfort when all we really need to be happy is someone or some thing to be enthusiastic about."
+        },
+        {
+            "author": "K. Flay",
+            "quote": "Feeling anxious or depressed sometimes is part of what it means to be a person, and it might even be essential to success."
+        },
+        {
+            "author": "Friedrich Nietzsche",
+            "quote": "Success has always been a great liar."
+        },
+        {
+            "author": "Aeschylus",
+            "quote": "God always strives together with those who strive."
+        },
+        {
+            "author": "Nargis Fakhri",
+            "quote": "Hard work and dedication is important to success, and I have those qualities."
+        },
+        {
+            "author": "Laurence D. Fink",
+            "quote": "One of the key elements of human behavior is, humans have a greater fear of loss than enjoyment of success. All the academic studies will show you that the fear of loss of capital is far greater than the enjoyment of gains."
+        }
+    ]
 }

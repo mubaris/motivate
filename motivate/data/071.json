@@ -1,6 +1,22 @@
 {
     "data": [
         {
+            "author": "Ingrid Bergman",
+            "quote": "I remember one day sitting at the pool and suddenly the tears were streaming down my cheeks. Why was I so unhappy? I had success. I had security. But it wasn't enough. I was exploding inside."
+        },
+        {
+            "author": "Johnny Carson",
+            "quote": "Talent alone won't make you a success. Neither will being in the right place at the right time, unless you are ready. The most important question is: 'Are your ready?'"
+        },
+        {
+            "author": "DJ Khaled",
+            "quote": "I've been blessed to be somebody that's been climbing that success mountain top for years of hard work, you know, but now it's all connecting. And now, the whole world is watching, you know what I'm saying, and it feels good 'cause it's good energy. This is all positive vibes, and good vibes and good energy, so it feels incredible."
+        },
+        {
+            "author": "Kate Middleton",
+            "quote": "George loves the T Rex because it's the noisiest and the scariest."
+        },
+        {
             "author": "C. S. Lewis",
             "quote": "Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success."
         },
@@ -63,42 +79,6 @@
         {
             "author": "Robert Kiyosaki",
             "quote": "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."
-        },
-        {
-            "author": "Guy Pearce",
-            "quote": "Success comes in waves."
-        },
-        {
-            "author": "Marlee Matlin",
-            "quote": "The handicap of deafness is not in the ear; it is in the mind."
-        },
-        {
-            "author": "Thomas Jefferson",
-            "quote": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you."
-        },
-        {
-            "author": "Joseph Barber Lightfoot",
-            "quote": "Plant thy foot firmly in the prints which His foot has made before thee."
-        },
-        {
-            "author": "Og Mandino",
-            "quote": "Obstacles are necessary for success because in selling, as in all careers of importance, victory comes only after many struggles and countless defeats."
-        },
-        {
-            "author": "Mireille Guiliano",
-            "quote": "Make treating yourself a priority and always remember your life is happening now. Don't put off all your dreams and pleasures to another day. In any balanced personal definition of success there has to be a powerful element of living life in the present."
-        },
-        {
-            "author": "John Madden",
-            "quote": "The only yardstick for success our society has is being a champion. No one remembers anything else."
-        },
-        {
-            "author": "Benjamin Disraeli",
-            "quote": "The secret of success in life is for a man to be ready for his opportunity when it comes."
-        },
-        {
-            "author": "Thomas J. Watson",
-            "quote": "If you want to increase your success rate, double your failure rate."
         }
     ]
 }

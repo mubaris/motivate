@@ -1,72 +1,84 @@
 {
     "data": [
-      {
-        "quote": "Don't raise your voice. Improve your arguement.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "Work until you no longer have to introduce yourself.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "You'd be suprised what people you trust would do when someone puts them in a position where they think they don't have a choice.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "Never destroy anyone in public when you can accomplish the same result in private.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "Win a no win situation by rewriting the rules.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "Kill them with success, Bury them with a smile.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "Let them hate. Just make sure they spell your name right.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "It's not a problem, if you always win.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "I'm not about caring, I'm about winning.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "I don't play the odds, I play the man.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "When you are backed against the wall, Break the goddamn thing down.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "I am against having emotions, not against using them.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "The only time success comes before work is in dictionary.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "Winners don't make excuses.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "I don't have dreams, I have goals.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "Sometimes good guys gotta to bad things to make the bad guys pay.",
-        "author": "Harvey Specter"
-      },
-      {
-        "quote": "It's not bragging, If it is true.",
-        "author": "Harvey Specter"
-      }
+        {
+            "author": "Euripides",
+            "quote": "Friends show their love in times of trouble, not in happiness."
+        },
+        {
+            "author": "Socrates",
+            "quote": "The only true wisdom is in knowing you know nothing."
+        },
+        {
+            "author": "Audrey Hepburn",
+            "quote": "Nothing is impossible, the word itself says Im possible!"
+        },
+        {
+            "author": "Maya Angelou",
+            "quote": "I\u2019ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel. "
+        },
+        {
+            "author": "Henry Ford",
+            "quote": "Whether you think you can or you think you can\u2019t, you\u2019re right."
+        },
+        {
+            "author": "Vince Lombardi",
+            "quote": "Perfection is not attainable, but if we chase perfection we can catch excellence."
+        },
+        {
+            "author": "Charles Swindoll",
+            "quote": "Life is 10% what happens to me and 90% of how I react to it."
+        },
+        {
+            "author": "Oprah Winfrey",
+            "quote": "If you look at what you have in life, you\u2019ll always have more. If you look at what you don\u2019t have in life, you\u2019ll never have enough."
+        },
+        {
+            "author": "Eleanor Roosevelt",
+            "quote": "Remember no one can make you feel inferior without your consent."
+        },
+        {
+            "author": "Jimmy Dean",
+            "quote": "I can\u2019t change the direction of the wind, but I can adjust my sails to always reach my destination."
+        },
+        {
+            "author": "Theodore Roosevelt",
+            "quote": "Believe you can and you\u2019re halfway there."
+        },
+        {
+            "author": "Unknown",
+            "quote": "BE STRONG\nYou never know who you are inspiring"
+        },
+        {
+            "author": "Eleanor Roosevelt",
+            "quote": "To handle yourself, use your head; to handle others, use your heart."
+        },
+        {
+            "author": "Les Brown",
+            "quote": "Too many of us are not living our dreams because we are living our fears."
+        },
+        {
+            "author": "Yoda",
+            "quote": "Do or do not. There is no try. "
+        },
+        {
+            "author": "Napoleon Hill",
+            "quote": "Whatever the mind of man can conceive and believe, it can achieve."
+        },
+        {
+            "author": "Mark Twain",
+            "quote": "Twenty years from now you will be more disappointed by the things that you didn\u2019t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover."
+        },
+        {
+            "author": "Michael Jordan",
+            "quote": "\u2019ve missed more than 9000 shots in my career. I\u2019ve lost almost 300 games. 26 times I\u2019ve been trusted to take the game winning shot and missed. I\u2019ve failed over and over and over again in my life. And that is why I succeed."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Strive not to be a success, but rather to be of value."
+        },
+        {
+            "author": "Stephen Covey",
+            "quote": "I am not a product of my circumstances. I am a product of my decisions."
+        }
     ]
 }

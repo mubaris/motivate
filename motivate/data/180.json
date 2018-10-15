@@ -1,28 +1,84 @@
 {
-	"data": [
-		{
-			"quote": "You can have everything you want in life if you just help enough people get what they want in life.",
-			"author": "Zig Ziglar"
-		},
-		{
-			"quote": "If I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.",
-			"author": "Gandhi"
-		},
-		{
-			"quote": "It takes courage to grow up and become who you really are.",
-			"author": "E. E. Cummings"
-		},
-		{
-			"quote": "Great minds have great purposes, others have wishes. Little minds are tamed and subdued by misfortune; but great minds rise above them.",
-			"author": "Washington Irving"
-		},
-		{
-			"quote": "The start is what stops most people.",
-			"author": "Don Shula"
-		},
-		{
-			"quote": "Happiness is not something you postpone for the future; it is something you desing for the present.",
-			"author": "Jim Rohn"
-		}
-	]
+    "data": [
+        {
+            "author": "Thomas Babington Macaulay",
+            "quote": "And how can man die better than facing fearful odds, for the ashes of his fathers, and the temples of his Gods?"
+        },
+        {
+            "author": "Mark Twain",
+            "quote": "The secret of getting ahead is getting started."
+        },
+        {
+            "author": "Theodore Roosevelt",
+            "quote": "Keep your eyes on the stars, and your feet on the ground."
+        },
+        {
+            "author": "Babe Ruth, from The Sandlot",
+            "quote": "Kid, there are heroes and there are legends. Heroes get remembered, but legends never die. Follow your heart, kid, and you\u2019ll never go wrong."
+        },
+        {
+            "author": "Sirius Black, from Harry Potter and the Goblet of Fire",
+            "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals."
+        },
+        {
+            "author": "Andy Dufresne, from The Shawshank Redemption",
+            "quote": "Get busy livin\u2019, or get busy dyin\u2019."
+        },
+        {
+            "author": "Chuck Noland, from Cast Away",
+            "quote": "I know what I have to do now. I\u2019ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?"
+        },
+        {
+            "author": "Maximus, from Gladiator",
+            "quote": "What we do in life echoes in eternity."
+        },
+        {
+            "author": "Ferris, from Ferris Bueller\u2019s Day Off",
+            "quote": "Life moves pretty fast. If you don\u2019t stop and look around once in a while, you could miss it."
+        },
+        {
+            "author": "Sean Maguire, from Good Will Hunting",
+            "quote": "Some people can\u2019t believe in themselves until someone else believes in them first."
+        },
+        {
+            "author": "Mario Puzo, from The Godfather",
+            "quote": "Great men are not born great, they grow great"
+        },
+        {
+            "author": "Gandalf, from Lord of the Rings: The Fellowship of the Ring",
+            "quote": "All we have to decide is what to do with the time that is given to us."
+        },
+        {
+            "author": "Chris Gardner, from The Pursuit of Happyness",
+            "quote": "Don\u2019t ever let somebody tell you you can\u2019t do something, not even me. Alright? You dream, you gotta protect it. People can\u2019t do something themselves, they wanna tell you you can\u2019t do it. If you want something, go get it. Period."
+        },
+        {
+            "author": "Ken Thompson",
+            "quote": "When in doubt, use brute force."
+        },
+        {
+            "author": "Ken Thompson",
+            "quote": "You can't trust code that you did not totally create yourself."
+        },
+        {
+            "author": "Ken Thompson",
+            "quote": "If you want to go somewhere, goto is the best way to get there."
+        },
+        {
+            "author": "Dennis Ritchie",
+            "quote": "UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity."
+        },
+        {
+            "author": "Dennis Ritchie",
+            "quote": "I'm not a person who particularly had heros when growing up."
+        },
+        {
+            "author": "Dennis Ritchie",
+            "quote": "C++ and Java, say, are presumably growing faster than plain C, but I bet C will still be around."
+        },
+        {
+            "author": "Dennis Ritchie",
+            "quote": "I've done a reasonable amount of travelling, which I enjoyed, but not for too long at a time."
+        }
+    ]
 }

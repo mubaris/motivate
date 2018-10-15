@@ -1,28 +1,84 @@
 {
-	"data": [
-		{
-			"quote":"You are your own best friend. Listen to yourself more often than someone else.",
-			"author":"Steven Cuoco"
-		},
-		{
-			"quote":"You deserve more in your life. Think big. Love more and share beyond your limits. You will then become limitless.",
-			"author":"Steven Cuoco"
-		},
-		{
-			"quote":"How vain it is to sit down to write when you have not stood up to live.",
-			"author":"Henry David Thoreau"
-		},
-		{
-			"quote":"The only people who see the whole picture, are the ones who step out of the frame.",
-			"author":"Salman Rushdie"
-		},
-		{
-			"quote":"Happiness is not something you postpone for the future;it is something you design for the present.",
-			"author":"Jim Rohn"
-		},
-		{
-			"quote":"The bird is powered by its own life and by its motivation",
-			"author":"APJ Abdul Kalam"
-		}
-	]
+    "data": [
+        {
+            "author": "Frank Sinatra",
+            "quote": " The best revenge is massive success.Frank Sinatra"
+        },
+        {
+            "author": "Dalai Lama",
+            "quote": "Happiness is not something readymade.  It comes from your own actions."
+        },
+        {
+            "author": "Unknown",
+            "quote": "Brain is like an Umbrella, works best when open."
+        },
+        {
+            "author": "Kabirdas",
+            "quote": "Wherever you are is the entry point."
+        },
+        {
+            "author": "Walt Disney",
+            "quote": "The way get started is to quit talking and begin doing."
+        },
+        {
+            "author": "Marie Curie",
+            "quote": "I was taught that the way of progress is neither swift nor easy."
+        },
+        {
+            "author": "Chanakya",
+            "quote": "Learn from other men\u2019s mistakes. You really do not have to touch the fire to see how hot it is!"
+        },
+        {
+            "author": "Eric Thomas",
+            "quote": "When you want to succeed as bad as you want to breathe, then you\u2019ll be successful."
+        },
+        {
+            "author": "Tim Notke",
+            "quote": "Hard work beats talent when talent doesn\u2019t work hard."
+        },
+        {
+            "author": "Vince Lombardi",
+            "quote": "A man can be as great as he wants to be. If you believe in yourself and have the courage, the determination, the dedication, the competitive drive and if you are willing to sacrifice the little things in life and pay the price for the things that are worthwhile, it can be done."
+        },
+        {
+            "author": "Spryte Loriano",
+            "quote": "Every great story on the planet happened when someone decided not to give up, but kept going no matter what."
+        },
+        {
+            "author": "Og Mandino",
+            "quote": "Failure will never overtake me if my determination to succeed is strong enough."
+        },
+        {
+            "author": "Conrad Hilton",
+            "quote": "Success\u2026 seems to be connected with action. Successful people keep moving. They make mistakes, but they don\u2019t quit."
+        },
+        {
+            "author": "W. Clement Stone",
+            "quote": "Aim for the moon. If you miss, you may hit a star."
+        },
+        {
+            "author": "Pablo Picasso",
+            "quote": "Action is the foundational key to all success."
+        },
+        {
+            "author": "Jim Rohn",
+            "quote": "Successful people do what unsuccessful people are not willing to do. Don\u2019t wish it were easier, wish you were better."
+        },
+        {
+            "author": "Ayn Rand",
+            "quote": "The question isn\u2019t who is going to let me; it\u2019s who is going to stop me."
+        },
+        {
+            "author": "Confucius",
+            "quote": "It does not matter how slowly you go, so long as you do not stop."
+        },
+        {
+            "author": "Washington Irving",
+            "quote": "Little minds are tamed and subdued by misfortune; but great minds rise above it."
+        },
+        {
+            "author": "Thomas Jefferson",
+            "quote": "I find that the harder I work, the more luck I seem to have."
+        }
+    ]
 }

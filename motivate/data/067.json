@@ -1,70 +1,6 @@
 {
     "data": [
         {
-            "author": "Thomas J. Watson",
-            "quote": "To be successful, you have to have your heart in your business and your business in your heart."
-        },
-        {
-            "author": "Donna Brazile",
-            "quote": "I was motivated to be different in part because I was different."
-        },
-        {
-            "author": "Steve Harvey",
-            "quote": "God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it."
-        },
-        {
-            "author": "Donald Rumsfeld",
-            "quote": "Be yourself. Follow your instincts. Success depends, at least in part, on the ability to 'carry it off.'"
-        },
-        {
-            "author": "Arsene Wenger",
-            "quote": "A manager is a guide. He takes a group of people and says, 'With you I can make us a success; I can show you the way.'"
-        },
-        {
-            "author": "George Allen, Sr.",
-            "quote": "Success is what you do with your ability. It's how you use your talent."
-        },
-        {
-            "author": "John Carmack",
-            "quote": "Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better."
-        },
-        {
-            "author": "Marianne Williamson",
-            "quote": "Just as you wouldn't leave the house without taking a shower, you shouldn't start the day without at least 10 minutes of sacred practice: prayer, meditation, inspirational reading."
-        },
-        {
-            "author": "Jerry Jeff Walker",
-            "quote": "I think it's real easy to be famous these days; it's not real easy to sustain success."
-        },
-        {
-            "author": "Les Brown",
-            "quote": "Shoot for the moon and if you miss you will still be among the stars."
-        },
-        {
-            "author": "Henry Rollins",
-            "quote": "We all learn lessons in life. Some stick, some don't. I have always learned more from rejection and failure than from acceptance and success."
-        },
-        {
-            "author": "Vivek Wadhwa",
-            "quote": "A key to achieving success is to assemble a strong and stable management team."
-        },
-        {
-            "author": "Maya Angelou",
-            "quote": "We may encounter many defeats but we must not be defeated."
-        },
-        {
-            "author": "Satya Nadella",
-            "quote": "Be passionate and bold. Always keep learning. You stop doing useful things if you don't learn. So the last part to me is the key, especially if you have had some initial success. It becomes even more critical that you have the learning 'bit' always switched on."
-        },
-        {
-            "author": "Julie Benz",
-            "quote": "You really have to work hard and apply yourself and by applying yourself and working hard and being diligent, you can achieve success."
-        },
-        {
-            "author": "Anna Held",
-            "quote": "Whatever success I may have attained is due to the fact that since I was old enough to work at all, my ambition has never deserted me."
-        },
-        {
             "author": "Mary Kay Ash",
             "quote": "Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist."
         },
@@ -99,6 +35,50 @@
         {
             "author": "Andy Andrews",
             "quote": "I believe that any type of education can be great, but an education about ourselves can create something wonderful. I am a comedian, but people have called me a motivational speaker. I don't really consider myself that at all."
+        },
+        {
+            "author": "J. D. Salinger",
+            "quote": "How do you know you're going to do something, untill you do it?"
+        },
+        {
+            "author": "Claude M. Bristol",
+            "quote": "Thought is the original source of all wealth, all success, all material gain, all great discoveries and inventions, and of all achievement."
+        },
+        {
+            "author": "Jonny Wilkinson",
+            "quote": "I would like to wish the England squad every success. I would also very much like to extend those wishes to Martin Johnson, Brian Smith, Mike Ford, John Wells, Graham Rowntree and the rest of the England 2011 World Cup management team who have been fantastic and deserve people to know that."
+        },
+        {
+            "author": "Wilma Rudolph",
+            "quote": "When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome."
+        },
+        {
+            "author": "Mike Ditka",
+            "quote": "Success isn't measured by money or power or social rank. Success is measured by your discipline and inner peace."
+        },
+        {
+            "author": "Sasha Cohen",
+            "quote": "Follow your dreams, work hard, practice and persevere. Make sure you eat a variety of foods, get plenty of exercise and maintain a healthy lifestyle."
+        },
+        {
+            "author": "Herodotus",
+            "quote": "All men's gains are the fruit of venturing."
+        },
+        {
+            "author": "William Osler",
+            "quote": "The very first step towards success in any occupation is to become interested in it."
+        },
+        {
+            "author": "Henry Ford",
+            "quote": "Before everything else, getting ready is the secret of success."
+        },
+        {
+            "author": "Madi Diaz",
+            "quote": "Coming to Nashville has been so motivating and inspirational. Just watching people live and breathe their music and create something that they can feel from start to finish."
+        },
+        {
+            "author": "Alfred Russel Wallace",
+            "quote": "I am decidedly of the opinion that in very many instances we can trace such a necessary connexion, especially among birds, and often with more complete success than in the case which I have here attempted to explain."
         }
     ]
 }

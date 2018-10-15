@@ -1,126 +1,84 @@
 {
-     "data": [
-	{
-            "quote": "When in doubt, use brute force.",
-            "author": "Ken Thompson"
+    "data": [
+        {
+            "author": "Edmund Burke",
+            "quote": "You must always remember that the only thing necessary for evil to triumph is for good men to do nothing."
         },
         {
-            "quote": "You can't trust code that you did not totally create yourself.",
-            "author": "Ken Thompson"
+            "author": "Peppy Hare (Lylat Wars/Star Fox 64)",
+            "quote": "Never give up. Trust your instincts."
         },
         {
-            "quote": "If you want to go somewhere, goto is the best way to get there.",
-            "author": "Ken Thompson"
+            "author": "Victor Sullivan (Uncharted 3: Drake's Deception)",
+            "quote": "We don't get to choose how we start in this life. Real 'greatness' is what you do with the hand you're dealt."
         },
         {
-            "quote": "UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.",
-            "author": "Dennis Ritchie"
+            "author": "Ignitus (The Legend of Spyro: Dawn of the Dragon)",
+            "quote": "Even in the darkest of times, there is always hope. But sometimes fear clouds our vision. Sometimes our strength gives out. And yet sometimes, when all seems lost, a light shines through the darkness, and we are reminded that even the smallest amount of courage can turn the tides of war."
         },
         {
-            "quote": "I'm not a person who particularly had heros when growing up.",
-            "author": "Dennis Ritchie"
+            "author": "Gouken (Super Street Fighter IV)",
+            "quote": "We are all our own worst enemy. But also our best teacher."
         },
         {
-            "quote": "C++ and Java, say, are presumably growing faster than plain C, but I bet C will still be around.",
-            "author": "Dennis Ritchie"
+            "author": "Sans (Undertale)",
+            "quote": "Take care of yourself, kid. Cause someone really cares about you."
         },
         {
-            "quote": "I've done a reasonable amount of travelling, which I enjoyed, but not for too long at a time.",
-            "author": "Dennis Ritchie"
+            "author": "Chief (Animal Crossing)",
+            "quote": "Don't wish it were easier, wish you were better."
         },
         {
-            "quote": "When I do this, some people think that it's because I want my ego to be fed, right? Of course, I'm not asking you to call it 'Stallmanix'!",
-            "author": "Richard Stallman"
+            "author": "Braum (League Of Legends)",
+            "quote": "Today we fight each other. Tomorrow, we may fight together."
         },
         {
-            "quote": "I'm always happy when I'm protesting.",
-            "author": "Richard Stallman"
+            "author": "Illidan Stormrage (World of Warcraft)",
+            "quote": "You are prepared!"
         },
         {
-            "quote": "Geeks like to think that they can ignore politics, you can leave politics alone, but politics won't leave you alone.",
-            "author": "Richard Stallman"
+            "author": "Waka (Okami)",
+            "quote": "Life is all about resolve. Outcome is secondary."
         },
         {
-            "quote": "If programmers deserve to be rewarded for creating innovative programs, by the same token they deserve to be punished if they restrict the use of these programs.",
-            "author": "Richard Stallman"
+            "author": "Andrew Ryan (BioShock)",
+            "quote": "A man chooses; a slave obeys."
         },
         {
-           "quote": "Once GNU is written, everyone will be able to obtain good system software free, just like air.",
-            "author": "Richard Stallman"
+            "author": "Terry Pratchett",
+            "quote": "There are times in life when people must know when not to let go. Balloons are designed to teach small children this."
         },
         {
-            "quote": "'Free software' is a matter of liberty, not price. To understand the concept, you should think of 'free' as in 'free speech,' not as in 'free beer'.",
-            "author": "Richard Stallman"
+            "author": "Terry Pratchett",
+            "quote": "It is well known that a vital ingredient of success is not knowing that what you're attempting can't be done."
         },
         {
-            "quote": "Playfully doing something difficult, whether useful or not, that is hacking.",
-            "author": "Richard Stallman"
+            "author": "Terry Pratchett",
+            "quote": "Fantasy is an exercise bicycle for the mind. It might not take you anywhere, but it tones up the muscles that can."
         },
         {
-            "quote": "Great companies in the way they work, start with great leaders.",
-            "author": "Steve Ballmer"
+            "author": "Terry Pratchett",
+            "quote": "If you don\u2019t turn your life into a story, you just become a part of someone else\u2019s story."
         },
         {
-            "quote": "What we’ve gone through in the last several years has caused some people to question ’Can we trust Microsoft?’",
-            "author": "Steve Ballmer"
+            "author": "Terry Pratchett",
+            "quote": "Stories of imagination tend to upset those without one."
         },
         {
-            "quote": "When I do something, it is all about self-discovery. I want to learn and discover my own limits",
-           "author": "Larry Ellison"
+            "author": "Terry Pratchett",
+            "quote": "Coming back to where you started is not the same as never leaving."
         },
         {
-            "quote": "I have had all of the disadvantages required for success",
-            "author": "Larry Ellison"
+            "author": "Terry Pratchett",
+            "quote": "The harder I work, the luckier I become."
         },
         {
-            "quote": "Great achievers are driven, not so much by the pursuit of success but by the fear of failure.",
-            "author": "Larry Ellison"
+            "author": "Terry Pratchett",
+            "quote": "If you trust in yourself and believe in your dreams and follow your star, you\u2019ll still get beaten by people who spent their time working hard and learning things and weren\u2019t so lazy."
         },
         {
-            "quote": "When you innovate, you’ve got to be prepared for everyone telling you you’re nuts.",
-            "author": "Larry Ellison"
-        },
-        {
-            "quote": "See things in the present, even if they are in the future.",
-            "author": "Larry Ellison"
-        },
-        {
-            "quote": "A corporation’s primary goal is to make money.",
-            "author": "Larry Ellison"
-        },
-        {
-            "quote": "Wealth isn’t the same thing as intelligence.",
-            "author": "Larry Ellison"
-        },
-        {
-            "quote": "When you’re the first whose beliefs are different you’re saying, I’m right and everyone else is wrong.",
-            "author": "Larry Ellison"
-        },
-        {
-            "quote": "The only way to get ahead is to find errors in conventional wisdom.",
-            "author": "Larry Ellison"
-        },
-        {
-            "quote": "What should exist? To me, that's the most exciting question imaginable. What do we need that we don't have? How can we realise our potential?",
-            "author": "Paul Allen"
-        },
-        {
-            "quote": "I'm always interested in finding ways to innovate... It's a blend; it's not a point focus.",
-            "author": "Paul Allen"
-        },
-        {
-            "quote": "For the most part, the best opportunities now lie where your competitors have yet to establish themselves, not where they're already entrenched.",
-            "author": "Paul Allen"
-        },
-        {
-            "quote": "In my experience, each failure contains the seeds of your next success– if you are willing to learn from it.",
-            "author": "Paul Allen"
-        },
-	{
-            "quote": "The three most harmful addictions are heroin, carbohydrates, and a monthly salary.",
-            "author": "Nassim Nicholas Taleb"
+            "author": "Terry Pratchett",
+            "quote": "Evil begins when you begin to treat people as things."
         }
-	
-     ]
-
+    ]
 }

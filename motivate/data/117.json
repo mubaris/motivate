@@ -1,84 +1,84 @@
 {
-	"data": [
-		{
-			"quote": "There is some good in this world, and it’s worth fighting for.",
-			"author": "J.R.R. Tolkien"
-		},
-		{
-			"quote": "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.",
-			"author": "H.Jackson Brown Jr."
-		},
-		{
-			"quote": "Well-behaved women seldom make history.",
-			"author": "Laurel Thatcher Ulrich"
-		},
-		{
-			"quote": "It is better to be hated for what you are than to be loved for what you are not.",
-			"author": "André Gide"
-		},
-		{
-			"quote": "Who, being loved, is poor?",
-			"author": "Oscar Wilde"
-		},
-		{
-			"quote": "Every human life is worth the same, and worth saving.",
-			"author": "J.K. Rowling"
-		},
-		{
-			"quote": "Get busy living, or get busy dying.",
-			"author": "Stephen King"
-		},
-		{
-			"quote": "The goal isn’t to live forever, the goal is to create something that will.",
-			"author": "Chuck Palahniuk"
-		},
-		{
-			"quote": "Travel far enough, you meet yourself.",
-			"author": "David Mitchell"
-		},
-		{
-			"quote": "None of us really changes over time. We only become more fully what we are.",
-			"author": "Anne Rice"
-		},
-		{
-			"quote": "Most people are nice when you finally see them.",
-			"author": "Harper Lee"
-		},
-		{
-			"quote": "Don’t panic.",
-			"author": "Douglas Adams"
-		},
-		{
-			"quote": "All endings are also beginnings. We just don’t know it at the time.",
-			"author": "Mitch Albom"
-		},
-		{
-			"quote": "When someone leaves, it’s because someone else is about to arrive.",
-			"author": "Paulo Coelho"
-		},
-		{
-			"quote": "It’s no use going back to yesterday, because I was a different person then.",
-			"author": "Lewis Carroll"
-		},
-		{
-			"quote": "The only limits for tomorrow are the doubts we have today.",
-			"author": "Pittacus Lore"
-		},
-		{
-			"quote": "It is our choices that show what we truly are, far more than our abilities.",
-			"author": "J.K. Rowling"
-		},
-		{
-			"quote": "If we wait until we’re ready, we’ll be waiting for the rest of our lives.",
-			"author": "Lemony Snicket"
-		},
-		{
-			"quote": "I don’t want to die without any scars.",
-			"author": "Chuck Palahniuk"
-		},
-		{
-			"quote": "Fear doesn’t shut you down; it wakes you up.",
-			"author": "Veronica Roth"
-		}
-	]
+    "data": [
+        {
+            "author": "Chris Grosser",
+            "quote": "Opportunities don't happen, you create them."
+        },
+        {
+            "author": "Confucius",
+            "quote": "It does not matter how slowly you go, so long as you do not stop."
+        },
+        {
+            "author": "Spryte Loriano",
+            "quote": "Every great story on the planet happened when someone decided not to give up, and kept going no matter what."
+        },
+        {
+            "author": "Charles Darwin",
+            "quote": "A man who dares to waste one hour of time has not discovered the value of life."
+        },
+        {
+            "author": "Leonardo DiCaprio",
+            "quote": "If you can do what you do best and be happy, you're further along in life than most people."
+        },
+        {
+            "author": "Aristotle",
+            "quote": "He who has overcome his fears will truly be free."
+        },
+        {
+            "author": "Ryan Nicodemus",
+            "quote": "Temporary habits are almost as bad as no habits at all."
+        },
+        {
+            "author": "Joshua Fields Millburn",
+            "quote": "Many things are both useful and dangerous. An automobile is useful; an automobile is dangerous. Likewise for nostalgia."
+        },
+        {
+            "author": "The Minimalists",
+            "quote": "If we are constantly consuming, then we are not creating."
+        },
+        {
+            "author": "Joshua Fields Millburn",
+            "quote": "Never leave the scene of a good idea without taking action."
+        },
+        {
+            "author": "Sheryl Sandberg",
+            "quote": "If you\u2019re offered a seat on a rocket ship, don\u2019t ask what seat! Just get on."
+        },
+        {
+            "author": "Ralph Waldo Emerson",
+            "quote": "The only person you are destined to become is the person you decide to be."
+        },
+        {
+            "author": "Anonymous (Ancient Indian Proverb)",
+            "quote": "Certain things catch your eye, but pursue only those that capture the heart."
+        },
+        {
+            "author": "The Minimalists",
+            "quote": "However we spend our time\u2014be it surfing Facebook or exercising at the gym\u2014those are our actual priorities."
+        },
+        {
+            "author": "Ryan Nicodemus",
+            "quote": "Distraction is a form of procrastination."
+        },
+        {
+            "author": "The Minimalists",
+            "quote": "You needn\u2019t be defined by your past. And certainly, your future does not have to look like your past, unless you allow it to."
+        },
+        {
+            "author": "John Sonmez",
+            "quote": "Trust the process."
+        },
+        {
+            "author": "Joshua Fields Millburn",
+            "quote": "Letting go of control is the best way to regain total control."
+        },
+        {
+            "author": "The Minimalists",
+            "quote": "Criticism is inevitable\u2014unless you do nothing important with your life."
+        },
+        {
+            "author": "The Minimalists",
+            "quote": "If you\u2019re not growing, you\u2019re dying."
+        }
+    ]
 }

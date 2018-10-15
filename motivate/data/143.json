@@ -1,83 +1,84 @@
 {
-	"data": [{
-			"author": "Anatole France",
-			"quote": "It is by acts and not by ideas that people live."
-		},
-		{
-			"author": "Anonymous",
-			"quote": "Always imitate the behavior of the winners when you lose."
-		},
-		{
-			"author": "Karl von Bonstetten",
-			"quote": "To resist the frigidity of old age one must combine the body, the mind and the heart - and to keep them in parallel vigor one must exercise, study and love."
-		},
-		{
-			"author": "Lois McMaster Bujold",
-			"quote": "If you make it plain you like people, it's hard for them to resist liking you back."
-		},
-		{
-			"author": "Dorothy C. Fisher",
-			"quote": "A mother is not a person to lean on but a person to make leaning unnecessary."
-		},
-		{
-			"author": "George Iles",
-			"quote": "A superstition is a premature explanation that overstays its time."
-		},
-		{
-			"author": "George Eliot ",
-			"quote": "The scornful nostril and the high head gather not the odors that lie on the track of truth."
-		},
-		{
-			"author": "Joan Rivers",
-			"quote": "A man can sleep around, no questions asked, but if a woman makes nineteen or twenty mistakes she's a tramp."
-		},
-		{
-			"author": "Ogden Nash",
-			"quote": "Progress might have been all right once, but it has gone on too long."
-		},
-		{
-			"author": "Susan Jeffers",
-			"quote": "Feel the fear and do it anyway."
-		},
-		{
-			"author": "Ellen Herman",
-			"quote": "Joel - That's the movies, Ed. Try reality. Ed - No thanks."
-		},
-		{
-			"author": "Mark Twain",
-			"quote": "When in doubt, tell the truth."
-		},
-		{
-			"author": "Starline X. Hodge",
-			"quote": "Just because it's only 'stuff' doesn't mean I can't appreciate it while I have it."
-		},
-		{
-			"author": "Alan Corenk",
-			"quote": "Democracy consists of choosing your dictators, after they've told you what you think it is you want to hear."
-		},
-		{
-			"author": "Steven Wright ",
-			"quote": "Last night somebody broke into my apartment and replaced everything with exact duplicates... When I pointed it out to my roommate, he said, 'Do I know you?'"
-		},
-		{
-			"author": "Thomas Szasz",
-			"quote": "Men are afraid to rock the boat in which they hope to drift safely through life's currents, when, actually, the boat is stuck on a sandbar. They would be better off to rock the boat and try to shake it loose."
-		},
-		{
-			"author": "Kyran Pittman,",
-			"quote": "Different and new is just the same old if you keep doing it over and over."
-		},
-		{
-			"author": "Frank Lloyd Wright",
-			"quote": "Noble life demands a noble architecture for noble uses of noble men. Lack of culture means what it has always meant: ignoble civilization and therefore imminent downfall."
-		},
-		{
-			"author": "Dan Quayle",
-			"quote": "I stand by all the misstatements that I've made."
-		},
-		{
-			"author": "Bob Dylan",
-			"quote": "If the point is sharp, and the arrow is swift, it can pierce through the dust no matter how thick."
-		}
-	]
+    "data": [
+        {
+            "author": "M.S. Dhoni",
+            "quote": "I have three Dogs at home. Even after losing a series or winning they treat me the same way."
+        },
+        {
+            "author": "M.S. Dhoni",
+            "quote": "You don't play for the crowd, you play for the country."
+        },
+        {
+            "author": "Sam Levenson",
+            "quote": "Don't watch the clock, do what it does, keep going."
+        },
+        {
+            "author": "Carol Burnett",
+            "quote": "Only I can change my life. No one can do it for me."
+        },
+        {
+            "author": "Charles R. Swindoll",
+            "quote": "Life is 10% what happens to you and 90% how you react to it."
+        },
+        {
+            "author": "St. Jerome",
+            "quote": "Good, better, best. Never let it rest. 'Til your good is better and your better is best."
+        },
+        {
+            "author": "Eleanor Roosevelt",
+            "quote": "With the new day comes new strength and new thoughts."
+        },
+        {
+            "author": "Helen Keller",
+            "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+        },
+        {
+            "author": "Nikos Kazantzakis",
+            "quote": "In order to succeed, we must first believe that we can."
+        },
+        {
+            "author": "Walt Disney",
+            "quote": "If you can dream it, you can do it."
+        },
+        {
+            "author": "Bradley Whitford",
+            "quote": "Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth."
+        },
+        {
+            "author": "Og Mandino",
+            "quote": "Failure will never overtake me if my determination to succeed is strong enough."
+        },
+        {
+            "author": "Og Mandino",
+            "quote": "Always do your best. What you plant now, you will harvest later."
+        },
+        {
+            "author": "Mark Twain",
+            "quote": "The secret of getting ahead is getting started."
+        },
+        {
+            "author": "Nelson Mandela",
+            "quote": "It always seems impossible until it's done."
+        },
+        {
+            "author": "Tony Robbins",
+            "quote": "Setting goals is the first step in turning the invisible into the visible."
+        },
+        {
+            "author": "Theodore Roosevelt",
+            "quote": "Keep your eyes on the stars, and your feet on the ground."
+        },
+        {
+            "author": "Ralph Marston",
+            "quote": "What you do today can improve all your tomorrows."
+        },
+        {
+            "author": "A. P. J. Abdul Kalam",
+            "quote": "We should not give up and we should not allow the problem to defeat us."
+        },
+        {
+            "author": "Thomas A. Edison",
+            "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
+        }
+    ]
 }
