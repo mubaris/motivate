@@ -1,6 +1,5 @@
 #!/bin/bash
-while true
-    do 
+while true; do
         moti
-        sleep 1m 
+        sleep 1m
     done
