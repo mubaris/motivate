@@ -55,16 +55,19 @@ def quote():
         if "quote" in quotes["data"][ran_no]:
             quote = quotes["data"][ran_no]["quote"]
             author = quotes["data"][ran_no]["author"]
-            if os.name == "nt" or args.nocolor:
-                quote = "\"" + quote + "\""
-                author = "--" + author
-                white_code = ""
+            if args.json:
+                print(json.dumps({"quote": quote, "author": author}))
             else:
-                quote = "\033[1;36m" + "\"" + quote + "\"" + "\033[1;m"
-                author = "\033[1;35m" + "--" + author + "\033[1;m"
-                white_code = "\x1b[0m"
-            output = quote + "\n\t\t" + author
-            print(output + white_code)
+                if os.name == "nt" or args.nocolor:
+                    quote = "\"" + quote + "\""
+                    author = "--" + author
+                    white_code = ""
+                else:
+                    quote = "\033[1;36m" + "\"" + quote + "\"" + "\033[1;m"
+                    author = "\033[1;35m" + "--" + author + "\033[1;m"
+                    white_code = "\x1b[0m"
+                output = quote + "\n\t\t" + author
+                print(output + white_code)
         else:
             print ("---------------Debug info begins:--------------")
             print("This is a message indicating an error in your json database:")
@@ -87,6 +90,7 @@ def quote():
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='A simple script to print random motivational quotes.')
     parser.add_argument('--no-colors', dest='nocolor', default=False, action='store_true', help='Argument to disable colored output. Disabled by default.')
+    parser.add_argument('--json', dest='json', default=False, action='store_true', help='Argument to output in a JSON format. Disabled by default.')
     args = parser.parse_args()
 
     quote()
