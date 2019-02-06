@@ -1,112 +1,84 @@
 {
     "data": [
         {
-            "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-            "author": "Helen Keller"
+            "author": "C.S. Lewis",
+            "quote": "We are what we believe we are."
         },
         {
-            "quote": "My best friend is the one who brings out the best in me.",
-            "author": "Henry Ford"
+            "author": "Winston Churchill",
+            "quote": "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."
         },
         {
-            "quote": "An investment in knowledge pays the best interest.",
-            "author": "Benjamin Franklin"
+            "author": "Lucius Annaeus Seneca",
+            "quote": "A gem cannot be polished without friction, nor a man perfected without trials."
         },
         {
-            "quote": "Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.",
-            "author": "A.P.J. Abdul Kalam"
+            "author": "Winston Churchill",
+            "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts."
         },
         {
-            "quote": "In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.",
-            "author": "Theodore Roosevelt"
+            "author": "Bob Dylan",
+            "quote": "There is nothing so stable as change."
         },
         {
-            "quote": "Believe you can and you're halfway there.",
-            "author": "Theodore Roosevelt"
+            "author": "Shaan Ahmed",
+            "quote": "You can't play life like an untuned instrument and then ask why the music is unpleasent."
         },
         {
-            "quote": "At his best, man is the noblest of all animals; separated from law and justice he is the worst.",
-            "author": "Aristotle"
+            "author": "Tupac Shakur",
+            "quote": "Reality is wrong. Dreams are for real."
         },
         {
-            "quote": "In the practice of tolerance, one's enemy is the best teacher.",
-            "author": "Dalai Lama"
+            "author": "Big K.R.I.T.",
+            "quote": "Just know that I was once considered just a dreamer... Then I paid my dues and turned so many doubters to believers..."
         },
         {
-            "quote": "The only real failure in life is not to be true to the best one knows.",
-            "author": "Buddha"
+            "author": "Fetty Wap",
+            "quote": "Don't let nobody tell you that you can't do it. Love what you do until you don't love it anymore. Nothing's impossible."
         },
         {
-            "quote": "The best cure for the body is a quiet mind.",
-            "author": "Napoleon Bonaparte"
+            "author": "Tony A. Gaskins Jr.",
+            "quote": "If you don't build your dream someone will hire you to help build theirs."
         },
         {
-            "quote": "Education is the best provision for old age.",
-            "author": "Aristotle"
+            "author": "Michael Jordan",
+            "quote": "I can accept failure, everyone fails at something. But I can\u2019t accept not trying."
         },
         {
-            "quote": "The best road to progress is freedom's road.",
-            "author": "John F. Kennedy"
+            "author": "TS Eliot",
+            "quote": "Only those who will risk going too far can possibly find out how far it is possible to go."
         },
         {
-            "quote": "Life is about making an impact, not making an income.",
-            "author": "Kevin Kruse"
+            "author": "Howard Schultz, CEO Starbucks",
+            "quote": "Believe in your dreams and dream big. And then after you\u2019ve done that, dream bigger."
         },
         {
-            "quote": "Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.",
-            "author": "Robert Frost"
+            "author": "John Quincy Adams",
+            "quote": "If your actions inspire others to dream more, learn more, do more and become more, you are a leader."
         },
         {
-            "quote": "Life is what happens to you while you’re busy making other plans.",
-            "author": "John Lennon"
+            "author": "Sumner Redstone",
+            "quote": "Success is not built on success. It\u2019s built on failure. It\u2019s built on frustration. Sometimes its built on catastrophe."
         },
         {
-            "quote": "We become what we think about.",
-            "author": "Earl Nightingale"
+            "author": "Gary Vaynerchuk",
+            "quote": "Skills are cheap. Passion is priceless."
         },
         {
-            "quote": "Always do your best. What you plant now, you will harvest later.",
-            "author": "Og Mandino"
+            "author": "Johnny Depp",
+            "quote": "I think the thing to do is enjoy the ride while you\u2019re on it."
         },
         {
-            "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
-            "author": "Chinese Proverb"
+            "author": "Shaan Ahmed",
+            "quote": "Sometimes you need to push people into the deep for some people will never learn to swim if they've never been taught how it feels to drown"
         },
         {
-            "quote": "An unexamined life is not worth living.",
-            "author": "Socrates"
+            "author": "Unknown",
+            "quote": "No one should have the power to shatter your dreams unless you give it to them."
         },
         {
-            "quote": "Eighty percent of success is showing up.",
-            "author": "Woody Allen"
-        },
-        {
-            "quote": "Every child is an artist.  The problem is how to remain an artist once he grows up.",
-            "author": "Pablo Picasso"
-        },
-        {
-            "quote": "You can never cross the ocean until you have the courage to lose sight of the shore.",
-            "author": "Christopher Columbus"
-        },
-        {
-            "quote": "Either you run the day, or the day runs you.",
-            "author": "Jim Rohn"
-        },
-        {
-            "quote": "The best revenge is massive success.",
-            "author": "Frank Sinatra"
-        },
-        {
-            "quote": "Life shrinks or expands in proportion to one's courage.",
-            "author": "Anais Nin"
-        },
-        {
-            "quote": "Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.",
-            "author": "Dr. Seuss"
-        },
-        {
-            "quote": "Do your own thing on your own terms and get what you came here for.",
-            "author": "Oliver James"
+            "author": "Ayn Rand",
+            "quote": "A creative man is motivated by the desire to achieve, not by the desire to beat others."
         }
     ]
 }

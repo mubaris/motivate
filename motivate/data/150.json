@@ -1,84 +1,84 @@
 {
-  "data": [
-    {
-      "author": "Mario Andretti",
-      "quote": "If everything seems under control, you're not going fast enough."
-    },
-    {
-      "author": "Ayrton Senna",
-      "quote": "I am not designed to come second or third. I am designed to win."
-    },
-    {
-      "author": "Ayrton Senna",
-      "quote": "Being second is to be the first of the ones who lose."
-    },
-    {
-      "author": "Marv Levy",
-      "quote": "Persistence can change failure into extraordinary achievement."
-    },
-    {
-      "author": "Tom Landry",
-      "quote": "I’ve learned that something constructive comes from every defeat."
-    },
-    {
-      "author": "Laird Hamilton",
-      "quote": "Make sure your worst enemy doesn’t live between your own two ears."
-    },
-    {
-      "author": "Bo Jackson",
-      "quote": "Set your goals high, and don’t stop till you get there."
-    },
-    {
-      "author": "Bo Hogan",
-      "quote": "If you can’t outplay them, outwork them."
-    },
-    {
-      "author": "Mike Singletary",
-      "quote": "Do you know what my favorite part of the game is? The opportunity to play."
-    },
-    {
-      "author": "Vin Scully",
-      "quote": "Good is not good when better is expected."
-    },
-    {
-      "author": "Billie Jean King",
-      "quote": "Champions keep playing until they get it right."
-    },
-    {
-      "author": "Herb Brooks",
-      "quote": "You were born to be a player. You were meant to be here. This moment is yours."
-    },
-    {
-      "author": "Mark Spitz",
-      "quote": "If you fail to prepare, you’re prepared to fail."
-    },
-    {
-      "author": "George Halas",
-      "quote": "Nobody who ever gave his best regretted it."
-    },
-    {
-      "author": "Paul Brown",
-      "quote": "When you win, say nothing, when you lose, say less."
-    },
-    {
-      "author": "Arnold Palmer",
-      "quote": "Always make a total effort, even when the odds are against you."
-    },
-    {
-      "author": "Ronnie Lott",
-      "quote": "If you can believe it, the mind can achieve it."
-    },
-    {
-      "author": "Lou Holtz",
-      "quote": "Without self-discipline, success is impossible, period."
-    },
-    {
-      "author": "Dean Smith",
-      "quote": "What do do with a mistake: recognize it, admit it, learn from it, forget it."
-    },
-    {
-      "author": "Joe Namath",
-      "quote": "If you aren’t going all the way, why go at all?"
-    }
-  ]
+    "data": [
+        {
+            "author": "Dwight D. Eisenhower",
+            "quote": "Motivation is the art of getting people to do what you want them to do because they want to do it."
+        },
+        {
+            "author": "Johann Wolfgang Von Goethe",
+            "quote": "Instruction does much, but encouragement does everything."
+        },
+        {
+            "author": "Mike Ditka",
+            "quote": "The ones who want to achieve and win championships motivate themselves."
+        },
+        {
+            "author": "Jim Ryun",
+            "quote": "Motivation is what gets you started. Habit is what keeps you going."
+        },
+        {
+            "author": "Lou Holtz",
+            "quote": "Motivation is simple. You eliminate those who are not motivated."
+        },
+        {
+            "author": "Pat Riley",
+            "quote": "There's always the motivation of wanting to win. Everybody has that. But a champion needs, in his attitude, a motivation above and beyond winning."
+        },
+        {
+            "author": "Max Schmelling",
+            "quote": "Why did I want to win? because I didn't want to lose!"
+        },
+        {
+            "author": "Francie Larrieu Smith",
+            "quote": "The most important thing about motivation is goal setting. You should always have a goal."
+        },
+        {
+            "author": "Harriet Braiker",
+            "quote": "Striving for excellence motivates you; striving for perfection is demoralizing."
+        },
+        {
+            "author": "Peter Davies",
+            "quote": "Motivation is like food for the brain. You cannot get enough in one sitting. It needs continual and regular top ups."
+        },
+        {
+            "author": "Herman Cain",
+            "quote": "Nobody motivates today's workers. If it doesn't come from within, it doesn't come. Fun helps remove the barriers that allow people to motivate themselves."
+        },
+        {
+            "author": "Dale Carnegie",
+            "quote": "There is only one way... to get anybody to do anything. And that is by making the other person want to do it."
+        },
+        {
+            "author": "Jerry Gillies",
+            "quote": "Make sure you visualize what you really want, not what someone else wants for you."
+        },
+        {
+            "author": "Walter Savage Landor",
+            "quote": "We talk on principal, but act on motivation."
+        },
+        {
+            "author": "Harvey Specter",
+            "quote": "Don't raise your voice. Improve your arguement."
+        },
+        {
+            "author": "Harvey Specter",
+            "quote": "Work until you no longer have to introduce yourself."
+        },
+        {
+            "author": "Harvey Specter",
+            "quote": "You'd be suprised what people you trust would do when someone puts them in a position where they think they don't have a choice."
+        },
+        {
+            "author": "Harvey Specter",
+            "quote": "Never destroy anyone in public when you can accomplish the same result in private."
+        },
+        {
+            "author": "Harvey Specter",
+            "quote": "Win a no win situation by rewriting the rules."
+        },
+        {
+            "author": "Harvey Specter",
+            "quote": "Kill them with success, Bury them with a smile."
+        }
+    ]
 }

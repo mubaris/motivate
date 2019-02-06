@@ -1,112 +1,84 @@
 {
     "data": [
         {
-            "quote": "The difficult is what takes a little time; the impossible is what takes a little longer.",
-            "author": "Fridtjof Nansen"
+            "author": "Johann Wolfgang Von Goethe",
+            "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do."
         },
         {
-            "quote": "Braving obstacles and hardships is nobler than retreat to tranquility.",
-            "author": "Khalil Gibran"
+            "author": "Eleanor Roosevelt",
+            "quote": "Do one thing every day that scares you."
         },
         {
-            "quote": "Cultivation of mind should be the ultimate aim of human existence.",
-            "author": "B. R. Ambedkar"
+            "author": "Lance Armstrong",
+            "quote": "Pain is temporary. Quitting lasts forever."
         },
         {
-            "quote": "You have brains in your head and feet in your shoes, you can steer yourself in any direction you choose.",
-            "author": "Dr. Seuss"
+            "author": "J.K. Rowling",
+            "quote": "Understanding is the first step to acceptance, and only with acceptance can there be recovery."
         },
         {
-            "quote": "The mind that tries to shape tomorrow beyond its capacities will find no rest.",
-            "author": "Rumi"
+            "author": "James Joyce",
+            "quote": "Mistakes are the portals of discovery."
         },
         {
-            "quote": "One day you will wake up and there won't be any more time to do the things you've always wanted. Do it now",
-            "author": "Paulo Coelho"
+            "author": "Ellen Goodman",
+            "quote": "We ought to walk through the rooms of our lives not looking for flaws, but looking for potential."
         },
         {
-            "quote": "The measure of who we are is what we do with what we have.",
-            "author": "Vince Lombardi"
+            "author": "Jim Rohn",
+            "quote": " If you are not willing to risk the usual you will have to settle for the ordinary. "
         },
         {
-            "quote": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
-            "author": "John F. Kennedy"
+            "author": "Walt Disney",
+            "quote": "All our dreams can come true if we have the courage to pursue them."
         },
         {
-            "quote": "Don't watch the clock; do what it does. Keep going.",
-            "author": "Sam Levenson"
+            "author": "Winston Churchill",
+            "quote": "Success is walking from failure to failure with no loss of enthusiasm."
         },
         {
-            "quote": "Success is not the result of spontaneous combustion. You must set yourself on fire.",
-            "author": "Reggie Leach"
+            "author": "Chris Grosser",
+            "quote": "Opportunities don\u2019t happen, you create them."
         },
         {
-            "quote": "Always remember that the future comes one day at a time.",
-            "author": "Dean Acheson"
+            "author": "Albert Einstein",
+            "quote": "Try not to become a person of success, but rather try to become a person of value."
         },
         {
-            "quote": "Motivation is what gets you started. Habit is what keeps you going. ",
-            "author": "Jim Ryun"
+            "author": "Eleanor Roosevelt",
+            "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people."
         },
         {
-            "quote": "The greatest mistake you can make in life is to be continually fearing you will make one.",
-            "author": "Elbert Hubbard"
+            "author": "Thomas A. Edison",
+            "quote": " I have not failed. I\u2019ve just found 10,000 ways that won\u2019t work."
         },
         {
-            "quote": "The secret to happiness is freedom. And the secret to freedom is courage. ",
-            "author": "Thucydides"
+            "author": "Oscar Wilde",
+            "quote": "What seems to us as bitter trials are often blessings in disguise."
         },
         {
-            "quote": "The struggle ends when the gratitude begins.",
-            "author": "Unknown"
+            "author": "Bruce Feirstein",
+            "quote": "The distance between insanity and genius is measured only by success. "
         },
         {
-            "quote": "Success is not the result of spontaneous combustion. You must set yourself on fire.",
-            "author": "Reggie Leach"
+            "author": "Lolly Daskal",
+            "quote": "When you stop chasing the wrong things you give the right things a chance to catch you. "
         },
         {
-            "quote": "Obsessed is a word that the lazy use to describe the dedicated. ",
-            "author": "Unknown"
+            "author": "John D. Rockefeller",
+            "quote": "Don\u2019t be afraid to give up the good to go for the great."
         },
         {
-            "quote": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination. ",
-            "author": "Jimmy Dean"
+            "author": "Jane Smiley",
+            "quote": "In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it. "
         },
         {
-            "quote": "Set your goals high, and don't stop till you get there.",
-            "author": "Bo Jackson"
+            "author": "Michael Jordan",
+            "quote": "You must expect great things of yourself before you can do them."
         },
         {
-            "quote": "Your life does not get better by chance, it gets better by change.",
-            "author": "Anonymous"
-        },
-        {
-            "quote": "I never knew a man come to greatness or eminence who lay abed late in the morning. ",
-            "author": "Johnathan Swift"
-        },
-        {
-            "quote": "No matter how you feel, Get up, dress up, show up and never give up.",
-            "author": "Anonymous"
-        },
-        {
-            "quote": "To be beautiful means to be yourself. You don't need to be accepted by others. You need to be yourself. ",
-            "author": "Thich Nhat Hanh"
-        },
-        {
-            "quote": "Believe that life is worth living and your belief will help create the fact.",
-            "author": "William James"
-        },
-        {
-            "quote": "You're going to go through tough times - that's life. But I say, 'Nothing happens to you, it happens for you.' See the positive in negative events. ",
-            "author": " Joel Osteen"
-        },
-        {
-            "quote": "Yesterday is not ours to recover, but tomorrow is ours to win or lose.",
-            "author": "Lyndon B. Johnson"
-        },
-        {
-            "quote": "I demolish my bridges behind me...then there is no choice but to move forward.",
-            "author": "Fridtjof Nansen"
+            "author": "Dale Carnegie",
+            "quote": "People rarely succeed unless they have fun in what they are doing. "
         }
     ]
 }

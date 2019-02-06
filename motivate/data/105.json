@@ -1,112 +1,84 @@
 {
-	"data": [
-		{
-			"author": "Arthur C. Clarke", 
-			"quote": "The only way of discovering the limits of the possible is to venture a little way past them into the impossible."
-		},
-		{
-			"author": "Roy T. Bennett", 
-			"quote": "It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."
-		},
-		{
-			"author": "Roy T. Bennett", 
-			"quote": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."
-		},
-		{
-			"author": "Confucius", 
-			"quote": "The man who moves a mountain begins by carrying away small stones."
-		},
-		{
-			"author": "Paulo Coelho", 
-			"quote": "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."
-		},
-		{
-			"author": "Napoleon Hill", 
-			"quote": "When defeat comes, accept it as a signal that your plans are not sound, rebuild those plans, and set sail once more toward your coveted goal."
-		},
-		{
-			"author": "Lily Tomlin", 
-			"quote": "I said 'Somebody should do something about that.' Then I realized I am somebody."
-		},
-		{
-			"author": "Christopher McCandless", 
-			"quote": "The very basic core of a man's living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun."
-		},
-		{
-			"author": "C.S. Lewis", 
-			"quote": "There are far, far better things ahead than any we leave behind."
-		},
-		{
-			"author": "Jack Welch", 
-			"quote": "Face reality as it is, not as it was or as you wish it to be."
-		},
-		{
-			"author": "Nathan W. Morris", 
-			"quote": "Edit your life frequently and ruthlessly. It's your masterpiece after all."
-		},
-		{
-			"author": "Stephen King", 
-			"quote": "Talent is a wonderful thing, but it won't carry a quitter."
-		},
-		{
-			"author": "Morrie Camhi", 
-			"quote": "We see things not as they are, we see them as WE are."
-		},
-		{
-			"author": "Ken Robinson", 
-			"quote": "Curiosity is the engine of achievement."
-		},
-		{
-			"author": "Tehmina Durrani", 
-			"quote": "I found an inner strength to fight for myself. It was clear that nobody else would."
-		},
-		{
-			"author": "Johann Wolfgang von Goethe", 
-			"quote": "The heights charm us, but the steps do not; with the mountain in our view we love to walk the plains."
-		},
-		{
-			"author": "Mohammed Ali Bapir", 
-			"quote": "Let your action manifest your thought, your belief and your passion."
-		},
-		{
-			"author": "Bill Rodgers", 
-			"quote": "I often lose motivation, but it's something I accept as normal."
-		},
-		{
-			"author": "Wendy Tremayne", 
-			"quote": "Start even if you don't know how."
-		},
-		{
-			"author": "Babe Ruth", 
-			"quote": "Never allow the fear of striking out keep you from playing the game!"
-		},
-		{
-			"author": "L.M. Fields", 
-			"quote": "It doesn't matter where you've been, only where you are going."
-		},
-		{
-			"author": "Richie Norton", 
-			"quote": "To become who you want to become, make decisions that THAT person would make, TODAY."
-		},
-		{
-			"author": "Dragos Bratasanu", 
-			"quote": "Flow is a state of being when we are completely focused, and fully immersed in what we are doing. In flow our work seems effortless, creativity goes into overdrive, we feel inspired, and motivation springs forth from within."
-		},
-		{
-			"author": "Greg Daugherty", 
-			"quote": "Rejected pieces aren't failure; unwritten pieces are."
-		},
-		{
-			"author": "Dawn Garcia", 
-			"quote": "We are not who we come from. We are who we allow ourselves to become."
-		},
-		{
-			"author": "M.L. Shanahan", 
-			"quote": "Fight everyday for a better life."
-		},
-		{
-			"author": "Qwana Reynolds-Frasier", 
-			"quote": "Practice makes the hard things easy."
-		}
-	]
+    "data": [
+        {
+            "author": "Winston Churchill",
+            "quote": "Success is walking from failure to failure with no loss of enthusiasm."
+        },
+        {
+            "author": "Babe Ruth",
+            "quote": "It's hard to beat a person who never gives up."
+        },
+        {
+            "author": "Barack Obama",
+            "quote": "The future rewards those who press on. I don't have time to feel sorry for myself. I don't have time to complain. I'm going to press on."
+        },
+        {
+            "author": "Barack Obama",
+            "quote": "Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek."
+        },
+        {
+            "author": "Thomas A. Edison",
+            "quote": "The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work."
+        },
+        {
+            "author": "Vince Lombardi",
+            "quote": "The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand."
+        },
+        {
+            "author": "Margaret Thatcher",
+            "quote": "I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but it should get you pretty near."
+        },
+        {
+            "author": "Booker T. Washington",
+            "quote": "Nothing ever comes to one, that is worth having, except as a result of hard work."
+        },
+        {
+            "author": "George Bernard Shaw",
+            "quote": "When I was young, I observed that nine out of ten things I did were failures. So I did ten times more work."
+        },
+        {
+            "author": "Ann Landers",
+            "quote": "Opportunities are usually disguised as hard work, so most people don't recognize them."
+        },
+        {
+            "author": "Jessica Savitch",
+            "quote": "For every two minutes of glamour, there are eight hours of hard work."
+        },
+        {
+            "author": "Gordon B. Hinckley",
+            "quote": "Without hard work, nothing grows but weeds."
+        },
+        {
+            "author": "Larry Bird",
+            "quote": "I've got a theory that if you give 100 percent all of the time, somehow things will work out in the end."
+        },
+        {
+            "author": "Ralph Marston",
+            "quote": "What you do today can improve all your tomorrows."
+        },
+        {
+            "author": "Lara Croft",
+            "quote": "In our darkest moments, when life flashes before us, we find something; Something that keeps us going. Something that pushes us."
+        },
+        {
+            "author": "Patrick Star",
+            "quote": "Sometimes we have to go deep inside ourselves to solve our problems."
+        },
+        {
+            "author": "Mewtwo",
+            "quote": "I see now that one\u2019s birth is irrelevant. It\u2019s what you do that determines who you are."
+        },
+        {
+            "author": "Jon Snow",
+            "quote": "There is no shame in fear, what matters is how we face it."
+        },
+        {
+            "author": "Marty McFly",
+            "quote": "If you put your mind to it, you can accomplish anything."
+        },
+        {
+            "author": "Frank Underwood",
+            "quote": "Friends make the worst enemies."
+        }
+    ]
 }

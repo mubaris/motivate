@@ -1,104 +1,84 @@
 {
     "data": [
         {
-            "author": "David O. Selznick",
-            "quote": "The success of a production depends on the attention paid to detail."
+            "author": "Fernando Pessoa",
+            "quote": "Success consists in being successful, not in having potential for success. Any wide piece of ground is the potential site of a palace, but there's no palace till it's built."
         },
         {
-            "author": "Anna Pavlova",
-            "quote": "When a small child, I thought that success spelled happiness. I was wrong, happiness is like a butterfly which appears and delights us for one brief moment, but soon flits away."
+            "author": "Lupe Fiasco",
+            "quote": "That should be the measure of success for everyone. It's not money, it's not fame, it's not celebrity; my index of success is happiness."
+        },
+        {
+            "author": "Bryant H. McGill",
+            "quote": "Within the hearts men, loyalty and consideration are esteemed greater than success."
+        },
+        {
+            "author": "Paul J. Meyer",
+            "quote": "Communication - the human connection - is the key to personal and career success."
+        },
+        {
+            "author": "Unknown",
+            "quote": "You have to learn the rules of the game. And then you have to play better than anyone else."
+        },
+        {
+            "author": "Ellen Glasgow",
+            "quote": "A tragic irony of life is that we so often achieve success or financial independence after the chief reason for which we sought it has passed away."
+        },
+        {
+            "author": "Arthur Young",
+            "quote": "God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man."
+        },
+        {
+            "author": "Myles Munroe",
+            "quote": "True leaders don't invest in buildings. Jesus never built a building. They invest in people. Why? Because success without a successor is failure. So your legacy should not be in buildings, programs, or projects; your legacy must be in people."
+        },
+        {
+            "author": "John Wooden",
+            "quote": "Success is never final, failure is never fatal. It's courage that counts."
+        },
+        {
+            "author": "Andre Gide",
+            "quote": "Be faithful to that which exists within yourself."
+        },
+        {
+            "author": "Manny Pacquiao",
+            "quote": "All those who are around me are the bridge to my success, so they are all important."
+        },
+        {
+            "author": "Usher",
+            "quote": "Success is about dedication. You may not be where you want to be or do what you want to do when you're on the journey. But you've got to be willing to have vision and foresight that leads you to an incredible end."
+        },
+        {
+            "author": "Babe Ruth",
+            "quote": "You just can't beat the person who never gives up."
+        },
+        {
+            "author": "Ralph Marston",
+            "quote": "Success in any endeavor depends on the degree to which it is an expression of your true self."
         },
         {
             "author": "Vince Lombardi",
-            "quote": "The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand."
+            "quote": "Perfection is not attainable, but if we chase perfection we can catch excellence."
         },
         {
-            "author": "Anna Pavlova",
-            "quote": "To follow, without halt, one aim: that's the secret of success."
+            "author": "Robert H. Schuller",
+            "quote": "Anybody who succeeds is helping people. The secret to success is find a need and fill it; find a hurt and heal it; find a problem and solve it."
         },
         {
-            "author": "Chris Brown",
-            "quote": "I would say I'm an inspirational guidelines book. You can take my life story or scenarios or songs and relate to them and apply them to your everyday life."
+            "author": "Tom Harkin",
+            "quote": "Stem cell research holds enormous promise for easing human suffering, and federal support is critical to its success."
         },
         {
-            "author": "Zig Ziglar",
-            "quote": "You cannot climb the ladder of success dressed in the costume of failure."
+            "author": "Simon Mainwaring",
+            "quote": "The keys to brand success are self-definition, transparency, authenticity and accountability."
         },
         {
-            "author": "Philip Guedalla",
-            "quote": "Greatness is so often a courteous synonym for great success."
+            "author": "Maxwell Maltz",
+            "quote": "Remember you will not always win. Some days, the most resourceful individual will taste defeat. But there is, in this case, always tomorrow - after you have done your best to achieve success today."
         },
         {
-            "author": "Matt Cameron",
-            "quote": "No matter how much success you're having, you can't continue working together if you can't communicate."
-        },
-        {
-            "author": "Elbert Hubbard",
-            "quote": "Pray that success will not come any faster than you are able to endure it."
-        },
-        {
-            "author": "Gabrielle Aplin",
-            "quote": "I am never without my lyric book. If anything inspirational happens, I have it there so nothing's forgotten."
-        },
-        {
-            "author": "Harsha Bhogle",
-            "quote": "In sports teams, apart from talk of sporting prowess and the imparting of inspirational thought, an extraordinary amount of time is spent discussing, and flaunting, material possessions."
-        },
-        {
-            "author": "Larry Ellison",
-            "quote": "I have had all of the disadvantages required for success."
-        },
-        {
-            "author": "Helen Rowland",
-            "quote": "You will never win if you never begin."
-        },
-        {
-            "author": "Jack Nicholson",
-            "quote": "I sort of understood that when I first started: that you shouldn't repeat a success. Very often you're going to, and maybe the first time you do, it works. And you love it. But then you're trapped."
-        },
-        {
-            "author": "Azim Premji",
-            "quote": "People are the key to success or extraordinary success."
-        },
-        {
-            "author": "Tony Robbins",
-            "quote": "There's no abiding success without commitment."
-        },
-        {
-            "author": "Dwayne Johnson",
-            "quote": "Check your ego at the door. The ego can be the great success inhibitor. It can kill opportunities, and it can kill success."
-        },
-        {
-            "author": "Smokey Robinson",
-            "quote": "In fact, I wouldn't really call this a Gospel album, I call it more an inspirational album."
-        },
-        {
-            "author": "George C. Marshall",
-            "quote": "Don't fight the problem, decide it."
-        },
-        {
-            "author": "John W. Gardner",
-            "quote": "True happiness involves the full use of one's power and talents."
-        },
-        {
-            "author": "Ken Venturi",
-            "quote": "I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be."
-        },
-        {
-            "author": "Woody Allen",
-            "quote": "Seventy percent of success in life is showing up."
-        },
-        {
-            "author": "Robert Louis Stevenson",
-            "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant."
-        },
-        {
-            "author": "Phillips Brooks",
-            "quote": "The ideal life is in our blood and never will be still."
-        },
-        {
-            "author": "Colin Powell",
-            "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
+            "author": "Oliver Wendell Holmes, Jr.",
+            "quote": "Young man, the secret of my success is that at early age I discovered that I was not God."
         }
     ]
 }

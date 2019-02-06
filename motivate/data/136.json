@@ -1,65 +1,84 @@
 {
-  "data": [
-    {
-	"author": "Helen Hayes",
-      "quote": "The expert at anything was once a beginner"
-    },
-    {
-	"author": "A.P.J Abdul Kalam",
-      "quote": "Failure will never overtake me if my determination to succeed is strong enough."
-    },
-{
-	"author": "A.P.J Abdul Kalam",
-      "quote": "Don’t take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck."
-    },
-{
-	"author": "A.P.J Abdul Kalam",
-      "quote": "All Birds find shelter during a rain. But Eagle avoids rain by flying above the Clouds."
-    },
-{
-	"author": "A.P.J Abdul Kalam",
-      "quote": "Man needs difficulties in life because they are necessary to enjoy the success."
-    },
-{
-	"author": "A.P.J Abdul Kalam",
-      "quote": "If you want to shine like a sun. First burn like a sun."
-    },
-{
-	"author": "Steve Jobs",
-      "quote": "Don’t let the noise of others’ opinions drown out your own inner voice."
-    },
-   {
-	"author": "Steve Jobs",
-      "quote": "Being the richest man in the cemetery doesn’t matter to me. Going to bed at night saying we’ve done something wonderful… that’s what matters to me."
-    },
-
-{
-	"author": "Steve Jobs",
-      "quote": "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."
-    },
-{
-	"author": "Steve Jobs",
-      "quote": "Your time is limited, so don’t waste it living someone else’s life."
-    },
-{
-	"author": "Steve Jobs",
-      "quote": "You have to be burning with an idea, or a problem, or a wrong that you want to right. If you’re not passionate enough from the start, you’ll never stick it out."
-    },
-{
-	"author": "M.S. Dhoni",
-      "quote": "Till the full stop doesn't comes, the sentence doesn't completes."
-    },
-{
-	"author": "M.S. Dhoni",
-      "quote": "When you Die, you Die. You don't think a better way to do it."
-    },
-{
-	"author": "M.S. Dhoni",
-      "quote": "I have three Dogs at home. Even after losing a series or winning they treat me the same way."
-    },
-{
-	"author": "M.S. Dhoni",
-      "quote": "You don't play for the crowd, you play for the country."
-    }
-  ]
+    "data": [
+        {
+            "author": "Robin Sharma",
+            "quote": "Less talk, more do. Less selfish, more selfless."
+        },
+        {
+            "author": "Robin Sharma",
+            "quote": "To construct an awesome life, build your daily life around your deepest priorities."
+        },
+        {
+            "author": "Robin Sharma",
+            "quote": "Elite performance is never luck. It\u2019s hard work."
+        },
+        {
+            "author": "Robin Sharma",
+            "quote": "Genius is more about what you have the discipline to say no to versus yes to."
+        },
+        {
+            "author": "Robin Sharma",
+            "quote": "Great achievement often happens when our backs are up against the wall."
+        },
+        {
+            "author": "Robin Sharma",
+            "quote": "Dedicate yourself to expressing your best."
+        },
+        {
+            "author": "Robin Sharma",
+            "quote": "Love is the secret weapon of the iconic entrepreneur. Work with love, lead with love, serve with love. Do these and you become undefeatable."
+        },
+        {
+            "author": "Dylan Thomas",
+            "quote": "Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light."
+        },
+        {
+            "author": "Charles Atlas",
+            "quote": "Step by step and the thing is done."
+        },
+        {
+            "author": "Michael Jordan",
+            "quote": "I\u2019ve failed over and over and over again. And that is why I succeed."
+        },
+        {
+            "author": "Mark Twain",
+            "quote": "The secret of getting ahead is getting started."
+        },
+        {
+            "author": "Walt Disney",
+            "quote": "If you can dream it, you can do it."
+        },
+        {
+            "author": "Robert H. Schuller",
+            "quote": "I\u2019d rather attempt to do something great and fail, than to attempt nothing and succeed."
+        },
+        {
+            "author": "Abraham Lincoln",
+            "quote": "Your own resolution to succeed is more important than any other."
+        },
+        {
+            "author": "Ralph Marston",
+            "quote": "What you do today can improve all your tomorrows."
+        },
+        {
+            "author": "Daniel Webster",
+            "quote": "There is always room at the top."
+        },
+        {
+            "author": "Sam Levenson",
+            "quote": "Do not watch the clock. Do what it does. Keep going."
+        },
+        {
+            "author": "Baltasar Gracian",
+            "quote": "The wise does at once what the fool does at last."
+        },
+        {
+            "author": "William Butler Yeats",
+            "quote": "Do not wait to strike till the iron is hot; but make it hot by striking."
+        },
+        {
+            "author": "Herbert Simon",
+            "quote": "One finds limits by pushing them."
+        }
+    ]
 }

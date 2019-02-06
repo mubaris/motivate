@@ -1,80 +1,84 @@
 {
     "data": [
-    {
-        "quote": "Oh captain, my captain.",
-        "author": "Todd Anderson"
-    },
-    {
-        "quote": "No matter what anybody tells you, words and ideas can change the world.",
-        "author": "John Keating"
-    },
-    { 
-        "quote": "Go ahead. Look out the window. Isn't it a beautiful day?",
-        "author": "Anonymous"
-    },
-    { 
-        "quote": "People are crazy and times are strange/ I'm locked in tight, I'm out of range/ I used to care, but things have changed.",
-        "author": "Bob Dylan"
-    },
-    { 
-        "quote": "Discipline is the bridge between goals and accomplishment.",
-        "author": "Jim Rohn"
-    },
-    { 
-        "quote": "It's a slow process, but quitting won't speed it up.",
-        "author": "Anonymous"
-    },
-    { 
-        "quote": "A river cuts through a rock not because of its power but its persistence.",
-        "author": "Anonymous"
-    },
-    { 
-        "quote": "The man on top of the mountain didn't fall there.",
-        "author": "Vince Lombardi"
-    },
-    { 
-        "quote": "I can and I will. Watch me.",
-        "author": "Anonymous"
-    },
-    { 
-        "quote": "Doubt kills more dreams than failure ever will.",
-        "author": "Karim Seddiki"
-    },
-    { 
-        "quote": "Be so good they can't ignore you.",
-        "author": "Steve Martin"
-    },
-    { 
-        "quote": "The expert in anything was once a beginner.",
-        "author": "Anonymous"
-    },
-    { 
-        "quote": "Wake up. Kick ass. Repeat.",
-        "author": "Anonymous"
-    },
-    { 
-        "quote": "Failure is a bruise, not a tattoo.",
-        "author": "Jon Sinclair"
-    },
-    { 
-        "quote": "Worrying is stupid. It's like walking around with an umbrella waiting for it to rain.",
-        "author": "Wiz Khalifa"
-    },
-    { 
-        "quote": "A smooth sea never made a skilled sailor.",
-        "author": "Franklin D. Roosevelt"
-    },
-    { 
-        "quote": "Go the extra mile -- it's never crowded.",
-        "author": "Anonymous"
-    },
-    { 
-        "quote": "Look in the mirror... That's your competition.",
-        "author": "Anonymous"
-    },
-    { 
-        "quote": "I won't be a rock star. I will be a legend.",
-        "author": "Freddie Mercury"
-    }
+        {
+            "author": "Danny Thomas",
+            "quote": "Success has nothing to do with what you gain in life or accomplish for yourself. It's what you do for others."
+        },
+        {
+            "author": "Theodore Roosevelt",
+            "quote": "With self-discipline most anything is possible."
+        },
+        {
+            "author": "Tony Robbins",
+            "quote": "It is in your moments of decision that your destiny is shaped."
+        },
+        {
+            "author": "George Lucas",
+            "quote": "'Star Wars' is fun, its exciting, its inspirational, and people respond to that. It's what they want."
+        },
+        {
+            "author": "Ireland Baldwin",
+            "quote": "I want to be an inspirational model. I want people to look at me and say, 'Wow, she looks healthy.'"
+        },
+        {
+            "author": "Nelson Mandela",
+            "quote": "It always seems impossible until it's done."
+        },
+        {
+            "author": "Henry Wadsworth Longfellow",
+            "quote": "The talent of success is nothing more than doing what you can do well, and doing well whatever you do without thought of fame. If it comes at all it will come because it is deserved, not because it is sought after."
+        },
+        {
+            "author": "Christa McAuliffe",
+            "quote": "Reach for the stars."
+        },
+        {
+            "author": "Aaron Paul",
+            "quote": "I saw a lot of people have success handed to them that then exploited it. They didn't protect it or cherish it."
+        },
+        {
+            "author": "Elizabeth Barrett Browning",
+            "quote": "Light tomorrow with today!"
+        },
+        {
+            "author": "Wayne Dyer",
+            "quote": "Successful people make money. It's not that people who make money become successful, but that successful people attract money. They bring success to what they do."
+        },
+        {
+            "author": "Bob Beauprez",
+            "quote": "Barack Obama likes to point to General Motors as the poster child for the job creation success of his economic policies. However, whatever your sentiments about the government's bailout of General Motors, for every job Barack Obama 'saved-or-created' in the U.S. there were two jobs off shore."
+        },
+        {
+            "author": "Tom Shadyac",
+            "quote": "I think true success is intrinsic... It's love. It's kindness. It's community."
+        },
+        {
+            "author": "Richard Branson",
+            "quote": "Treat failure as a lesson on how not to approach achieving a goal, and then use that learning to improve your chances of success when you try again. Failure is only the end if you decide to stop."
+        },
+        {
+            "author": "Benjamin Disraeli",
+            "quote": "Nurture your minds with great thoughts. To believe in the heroic makes heroes."
+        },
+        {
+            "author": "Bradley Whitford",
+            "quote": "Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth."
+        },
+        {
+            "author": "Godfrey Winn",
+            "quote": "No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed."
+        },
+        {
+            "author": "F. Scott Fitzgerald",
+            "quote": "The compensation of a very early success is a conviction that life is a romantic matter. In the best sense one stays young."
+        },
+        {
+            "author": "Helen Gurley Brown",
+            "quote": "My success was not based so much on any great intelligence but on great common sense."
+        },
+        {
+            "author": "Vince Lombardi",
+            "quote": "Success demands singleness of purpose."
+        }
     ]
 }

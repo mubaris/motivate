@@ -1,76 +1,84 @@
 {
     "data": [
         {
-            "quote": "In our darkest moments, when life flashes before us, we find something; Something that keeps us going. Something that pushes us.",
-            "author": "Lara Croft"
-		},
-		{
-			"quote": "Sometimes we have to go deep inside ourselves to solve our problems.",
-			"author": "Patrick Star"
-		},
-		{
-			"quote": "I see now that one’s birth is irrelevant. It’s what you do that determines who you are.",
-			"author": "Mewtwo"
-		},
-		{
-			"quote": "There is no shame in fear, what matters is how we face it.",
-			"author": "Jon Snow"
-		},
-		{
-			"quote": "If you put your mind to it, you can accomplish anything.",
-			"author": "Marty McFly"
-		},
-		{
-			"quote": "Friends make the worst enemies.",
-			"author": "Frank Underwood"
-		},
-		{
-			"quote": "I love waking up in the morning not knowing what's gonna happen or, who I'm gonna meet, where I'm gonna wind up.",
-			"author": "Jack Dawson"
-		},
-		{
-			"quote": "Your focus determines your reality.",
-			"author": "Qui-Gon Jinn"
-		},
-		{
-			"quote": "You have been my friend. That in itself is a tremendous thing.",
-			"author": "Charlotte A. Cavatica"
-		},
-		{
-			"quote": "Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not.",
-			"author": "The Once-ler"
-		},
-		{
-			"quote": "You don't need a reason to help people.",
-			"author": "Zidane Tribal"
-		},
-		{
-			"quote": "A sword wields no strength unless the hand that holds it has courage.",
-			"author": "The Hero's Spirit of the Legend of Zelda"
-		},
-		{
-			"quote": "Pride is not the opposite of shame, but it’s source. True humility is the only antidote to shame.",
-			"author": "Iroh of the Fire Nation"
-		},
-		{
-			"quote": "If our lives are already written, it would take a courageous man to change the script.",
-			"author": "Alan Wake"
-		},
-		{
-			"quote": "At some point, everything's gonna go south on you and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is.",
-			"author": "Mark Watney"
-		},
-		{
-			"quote": "Even if you run into a storm, there's always a way out, no matter how bleak things seem.",
-			"author": "Vyse"
-		},
-		{
-			"quote": "Life is a negotiation. We all want. We all give to get what we want.",
-			"author": "Mordin Solus"
-		},
-		{
-			"quote": "Wishes can come true. But not if you just wait for miracles. Miracles are things we make for ourselves.",
-			"author": "Oerba Dia Vanille"
-		}
-	]
+            "author": "Lee Atwater",
+            "quote": "My childhood, adolescence and high school days are unusually important. If there has ever been a time that I developed a uniqueness and sense of humor and the ability to organize, it was then. In those early days, I developed the skills that gave me a certain degree of success in American politics."
+        },
+        {
+            "author": "Bertolt Brecht",
+            "quote": "Why be a man when you can be a success?"
+        },
+        {
+            "author": "Christopher Lasch",
+            "quote": "Nothing succeeds like the appearance of success."
+        },
+        {
+            "author": "Pierce Brosnan",
+            "quote": "I thought 'Moulin Rouge' was inspirational, and 'Jesus Christ Superstar' I loved."
+        },
+        {
+            "author": "Skylar Grey",
+            "quote": "Your personal life, your professional life, and your creative life are all intertwined. I went through a few very difficult years where I felt like a failure. But it was actually really important for me to go through that. Struggle, for me, is the most inspirational thing in the world at the end of the day - as long as you treat it that way."
+        },
+        {
+            "author": "Dennis C. Blair",
+            "quote": "The leaders who we admire who have been able to bring great change in the past - Gandhi, Martin Luther King, Nelson Mandela - they're all inspirational religious leaders and smart tacticians. It would be nice to find the Muslim Gandhi, wouldn't it?"
+        },
+        {
+            "author": "Euripides",
+            "quote": "Much effort, much prosperity."
+        },
+        {
+            "author": "Bobby Locke",
+            "quote": "The real success in golf lies in turning three shots into two."
+        },
+        {
+            "author": "Erma Bombeck",
+            "quote": "Don't confuse fame with success. Madonna is one; Helen Keller is the other."
+        },
+        {
+            "author": "Nicolaus Copernicus",
+            "quote": "Of all things visible, the highest is the heaven of the fixed stars."
+        },
+        {
+            "author": "Hassanal Bolkiah",
+            "quote": "Future peace, prosperity and confidence depend not just on ourselves but on the success of all nations. Hence, we are all partners, no matter what our backgrounds, cultures, faiths and histories."
+        },
+        {
+            "author": "Bo Bennett",
+            "quote": "A rejection is nothing more than a necessary step in the pursuit of success."
+        },
+        {
+            "author": "Christa McAuliffe",
+            "quote": "Reach for it. Push yourself as far as you can."
+        },
+        {
+            "author": "Pablo Picasso",
+            "quote": "Our goals can only be reached through a vehicle of a plan, in which we must fervently believe, and upon which we must vigorously act. There is no other route to success."
+        },
+        {
+            "author": "Ban Ki-moon",
+            "quote": "Like the United Nations, there is something inspirational about New York as a great melting pot of different cultures and traditions. And if this is the city that never sleeps, the United Nations works tirelessly, around the clock around the world."
+        },
+        {
+            "author": "Jennifer Lopez",
+            "quote": "Once you have a lot of success, you become a target in many ways."
+        },
+        {
+            "author": "Woodrow Wilson",
+            "quote": "You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand."
+        },
+        {
+            "author": "Ludwig Quidde",
+            "quote": "Every success in limiting armaments is a sign that the will to achieve mutual understanding exists, and every such success thus supports the fight for international law and order."
+        },
+        {
+            "author": "Jim Rohn",
+            "quote": "Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins."
+        },
+        {
+            "author": "Roger Babson",
+            "quote": "Keep in mind that neither success nor failure is ever final."
+        }
+    ]
 }

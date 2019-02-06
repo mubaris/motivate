@@ -1,104 +1,84 @@
 {
     "data": [
         {
-            "author": "Sam Levenson",
-            "quote": "Don't watch the clock, do what it does, keep going."
+            "author": "Wayne Dyer",
+            "quote": "Go for it now. The future is promised to no one."
         },
         {
-            "author": "Carol Burnett",
-            "quote": "Only I can change my life. No one can do it for me."
-        },
-        {
-            "author": "Charles R. Swindoll",
-            "quote": "Life is 10% what happens to you and 90% how you react to it."
-        },
-        {
-            "author": "St. Jerome",
-            "quote": "Good, better, best. Never let it rest. 'Til your good is better and your better is best."
-        },
-        {
-            "author": "Eleanor Roosevelt",
-            "quote": "With the new day comes new strength and new thoughts."
-        },
-        {
-            "author": "Helen Keller",
-            "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
-        },
-        {
-            "author": "Nikos Kazantzakis",
-            "quote": "In order to succeed, we must first believe that we can."
-        },
-        {
-            "author": "Walt Disney",
-            "quote": "If you can dream it, you can do it."
-        },
-        {
-            "author": "Bradley Whitford",
-            "quote": "Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth."
-        },
-        {
-            "author": "Og Mandino",
-            "quote": "Failure will never overtake me if my determination to succeed is strong enough."
-        },
-        {
-            "author": "Og Mandino",
-            "quote": "Always do your best. What you plant now, you will harvest later."
-        },
-        {
-            "author": "Mark Twain",
-            "quote": "The secret of getting ahead is getting started."
-        },
-        {
-            "author": "Nelson Mandela",
-            "quote": "It always seems impossible until it's done."
-        },
-        {
-            "author": "Tony Robbins",
-            "quote": "Setting goals is the first step in turning the invisible into the visible."
-        },
-        {
-            "author": "Theodore Roosevelt",
-            "quote": "Keep your eyes on the stars, and your feet on the ground."
-        },
-        {
-            "author": "Ralph Marston",
-            "quote": "What you do today can improve all your tomorrows."
-        },
-        {
-            "author": "A. P. J. Abdul Kalam",
-            "quote": "We should not give up and we should not allow the problem to defeat us."
-        },
-        {
-            "author": "Thomas A. Edison",
-            "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
-        },
-        {
-            "author": "Ayn Rand",
-            "quote": "A creative man is motivated by the desire to achieve, not by the desire to beat others."
-        },
-        {
-            "author": "Sam Levenson",
-            "quote": "Don't watch the clock; do what it does. Keep going."
+            "author": "John Burroughs",
+            "quote": "Leap, and the net will appear."
         },
         {
             "author": "Norman Vincent Peale",
-            "quote": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."
+            "quote": "It\u2019s always too early to quit"
         },
         {
-            "author": "Arthur Ashe",
-            "quote": "Start where you are. Use what you have. Do what you can."
+            "author": "Benjamin Franklin",
+            "quote": "Well done is better than well said."
+        },
+        {
+            "author": "Victor Kiam",
+            "quote": "Even if you fall on your face you\u2019re still moving forward."
+        },
+        {
+            "author": "Zig Ziglar",
+            "quote": "You don\u2019t have to be great to start, but you have to start to be great."
+        },
+        {
+            "author": "Nelson Mandela",
+            "quote": "It always seems impossible until it is done."
+        },
+        {
+            "author": "Eric Thomas",
+            "quote": "When you want to succeed as bad as you want to breathe,33 then you\u2019ll be successful."
         },
         {
             "author": "Robert H. Schuller",
-            "quote": "Problems are not stop signs, they are guidelines."
+            "quote": "Tough times never last, but tough people do."
         },
         {
-            "author": "Aristotle",
-            "quote": "Quality is not an act, it is a habit."
+            "author": "Tim Notke",
+            "quote": "Hard work beats talent when talent doesn\u2019t work hard."
         },
         {
-            "author": "Bo Jackson",
-            "quote": "Set your goals high, and don't stop till you get there."
+            "author": "Spryte Loriano",
+            "quote": "Every great story on the planet happened when someone decided not to give up, but kept going no matter what."
+        },
+        {
+            "author": "Anonymous",
+            "quote": "Don\u2019t stop when you\u2019re tired. STOP when you are DONE."
+        },
+        {
+            "author": "Og Mandino",
+            "quote": "ailure will never overtake me if my determination to succeed is strong enough."
+        },
+        {
+            "author": "Conrad Hilton",
+            "quote": "Success\u2026 seems to be connected with action. Successful people keep moving. They make mistakes, but they don\u2019t quit."
+        },
+        {
+            "author": "W. Clement Stone",
+            "quote": " Aim for the moon. If you miss, you may hit a star."
+        },
+        {
+            "author": "Pablo Picasso",
+            "quote": "Action is the foundational key to all success."
+        },
+        {
+            "author": "Anonymous",
+            "quote": "The ones who are crazy enough to think they can change the world, are the ones who do."
+        },
+        {
+            "author": "Jim Rohn",
+            "quote": " Successful people do what unsuccessful people are not willing to do. Don\u2019t wish it were easier, wish you were better."
+        },
+        {
+            "author": "Ayn Rand",
+            "quote": "The question isn\u2019t who is going to let me; it\u2019s who is going to stop me."
+        },
+        {
+            "author": "Herbert Simon",
+            "quote": "One finds limits by pushing them."
         }
     ]
 }

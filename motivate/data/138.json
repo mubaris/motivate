@@ -1,65 +1,84 @@
 {
-  "data": [
-    {
-	"author": "Harsha Bhogle",
-      "quote": "Sometimes your greatest strength can emerge as a weakness if the context changes."
-    },
-    {
-	"author": "Harsha Bhogle",
-      "quote": "Change doesn't always mean progress, but the status quo isn't always the best result either. It is merely the most convenient."
-    },
-{
-	"author": "Heraclitus",
-      "quote": "There is nothing permanent except change."
-    },
-{
-	"author": "Khalil Gibran",
-      "quote": "Life without love is like a tree without blossoms or fruit."
-    },
-{
-	"author": "Aesop",
-      "quote": "No act of kindness, no matter how small, is ever wasted."
-    },
-{
-	"author": "Napoleon Hill",
-      "quote": "If you cannot do great things, do small things in a great way."
-    },
-{
-	"author": "Sun Tzu",
-      "quote": "The supreme art of war is to subdue the enemy without fighting."
-    },
-   {
-	"author": "George Orwell",
-      "quote": "Happiness can exist only in acceptance."
-    },
-
-{
-	"author": "William Blake",
-      "quote": "Think in the morning. Act in the noon. Eat in the evening. Sleep in the night."
-    },
-{
-	"author": "Steve Jobs",
-      "quote": "Your time is limited, so don’t waste it living someone else’s life."
-    },
-{
-	"author": "J.R.R. Tolkien",
-      "quote": "Not all those who wander are lost."
-    },
-{
-	"author": "George Sand",
-      "quote": "There is only one happiness in this life, to love and be loved."
-    },
-{
-	"author": "Plato",
-      "quote": "Wise men speak because they have something to say; Fools because they have to say something."
-    },
-{
-	"author": "Euripides",
-      "quote": "Friends show their love in times of trouble, not in happiness."
-    },
-{
-	"author": "Socrates",
-      "quote": "The only true wisdom is in knowing you know nothing."
-    }
-  ]
+    "data": [
+        {
+            "author": "Confucius",
+            "quote": "It does not matter how slowly you go, so long as you do not stop."
+        },
+        {
+            "author": "Washington Irving",
+            "quote": " Little minds are tamed and subdued by misfortune; but great minds rise above it."
+        },
+        {
+            "author": "Thomas A. Edison",
+            "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
+        },
+        {
+            "author": "Wayne Dyer",
+            "quote": "Be miserable. Or motivate yourself. Whatever has to be done, it\u2019s always your choice."
+        },
+        {
+            "author": "Kresley Cole",
+            "quote": " Nothing great ever came that easy."
+        },
+        {
+            "author": "Napoleon Hill",
+            "quote": "The greatest achievement was at first, and for a time, but a dream."
+        },
+        {
+            "author": "Anonymous",
+            "quote": "Great things come to those who don\u2019t wait."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Anyone who has never made a mistake has never tried anything new."
+        },
+        {
+            "author": "Winston Churchill",
+            "quote": "Success is walking from failure to failure with no loss of enthusiasm."
+        },
+        {
+            "author": "Winston Churchill",
+            "quote": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."
+        },
+        {
+            "author": "Will Rogers",
+            "quote": "Don\u2019t Let Yesterday Take Up Too Much Of Today."
+        },
+        {
+            "author": "Vince Lombardi",
+            "quote": "It\u2019s Not Whether You Get Knocked Down, It\u2019s Whether You Get Up."
+        },
+        {
+            "author": "Steve Jobs",
+            "quote": "If You Are Working On Something That You Really Care About, You Don\u2019t Have To Be Pushed. The Vision Pulls You."
+        },
+        {
+            "author": "Maya Angelou",
+            "quote": "We May Encounter Many Defeats But We Must Not Be Defeated."
+        },
+        {
+            "author": "Brian Tracy",
+            "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?"
+        },
+        {
+            "author": "Napoleon Hill",
+            "quote": "Whatever the mind of man can conceive and believe, it can achieve."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Strive not to be a success, but rather to be of value."
+        },
+        {
+            "author": "Robert Frost",
+            "quote": "Two roads diverged in a wood, and I\u2014I took the one less traveled by, And that has made all the difference."
+        },
+        {
+            "author": "Wayne Gretzky",
+            "quote": "You miss 100% of the shots you don\u2019t take."
+        },
+        {
+            "author": "Babe Ruth",
+            "quote": "Every strike brings me closer to the next home run."
+        }
+    ]
 }

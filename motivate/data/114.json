@@ -1,89 +1,84 @@
 {
-	"data": [
-		{
-            "quote":"Courage is going from failure to failure without losing enthusiasm.",
-            "author":"Winston Churchill"
+    "data": [
+        {
+            "author": "Steve Jobs",
+            "quote": "I\u2019m as proud of many of the things we haven\u2019t done as the things we have done. Innovation is saying no to a thousand things."
         },
         {
-            "quote":"I don't believe in failure. It is not failure if you enjoyed the process.",
-            "author":"Oprah Winfrey"
+            "author": "Steve Jobs",
+            "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven\u2019t found it yet, keep looking. Don\u2019t settle. As with all matters of the heart, you\u2019ll know when you find it."
         },
         {
-            "quote":"Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-            "author":"Marcus Aurelius"
+            "author": "Steve Jobs",
+            "quote": "Have the courage to follow your heart and intuition. They somehow know what you truly want to become."
         },
         {
-            "quote":"All achievements, all earned riches, have their beginning in an idea.",
-            "author":"Napoleon Hill"
+            "author": "Steve Jobs",
+            "quote": "I think if you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what\u2019s next."
         },
         {
-            "quote":"The most effective way to do it, is to do it.",
-            "author":"Amella Earhart"
+            "author": "Steve Jobs",
+            "quote": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations."
         },
         {
-            "quote":"The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
-            "author":"Helen Keller"
+            "author": "Steve Jobs",
+            "quote": "Quality is more important than quantity. One home run is much better than two doubles."
         },
         {
-            "quote":"The superior man is modest in his speech, but exceeds in his actions.",
-            "author":"Confucius"
+            "author": "J\u00f3zef Pi\u0142sudski",
+            "quote": "To be defeated and not submit, is victory; to be victorious and rest on one's laurels, is defeat."
         },
         {
-            "quote":"If you surrender to the wind, you can ride it.",
-            "author":"Toni Morrison"
+            "author": "J\u00f3zef Pi\u0142sudski",
+            "quote": "To want to, is to be able to."
         },
         {
-            "quote":"All achievements, all earned riches, have their beginning in an idea.",
-            "author":"Napoleon Hill"
+            "author": "Chinese Proverb",
+            "quote": "The flowers of all the tomorrows are in the seeds of today."
         },
         {
-            "quote":"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.",
-            "author":"Tony Robbins"
+            "author": "Benjamin Franklin",
+            "quote": "We are all born ignorant, but one must work hard to remain stupid."
         },
         {
-            "quote":"I can be changed by what happens to me. But I refuse to be reduced by it.",
-            "author":"Maya Angelou"
+            "author": "Steve Carell",
+            "quote": "You need to be a peli-CAN. Not peli-CAN'T."
         },
         {
-            "quote":"If you don't invest very much, then defeat doesn't hurt very much and winning is not very exciting.",
-            "author":"Dick Vermeil"
+            "author": "Oprah Winfrey",
+            "quote": "Turn your wounds into wisdom."
         },
         {
-            "quote":"The only limit to our realization of tomorrow will be our doubts of today.",
-            "author":"Franklin Roosevelt"
+            "author": "Albert Einstein",
+            "quote": "Try not to become a person of success but a person of value."
         },
         {
-            "quote":"Successful people ask better questions, and as a result, they get better answers.",
-            "author":"Tony Robbins"
+            "author": "Mahatma Gandhi",
+            "quote": "We must be the change we wish to see in the world"
         },
         {
-            "quote":"Through perseverance many people win success out of what seemed destined to be certain failure.",
-            "author":"Benjamin Disraeli"
+            "author": "African Proverb",
+            "quote": "Even a slow walker will arrive."
         },
         {
-            "quote":"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.",
-            "author":"Dalai Lama"
+            "author": "Ralph Waldo Emerson",
+            "quote": "Self-trust is the first secret of success."
         },
         {
-            "quote":"True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.",
-            "author":"William Penn"
+            "author": "Mark Twain",
+            "quote": "Humor is man's greatest blessing."
         },
         {
-            "quote":"At the center of your being you have the answer; you know who you are and you know what you want.",
-            "author":"Lao Tzu"
+            "author": "Russian Proverb",
+            "quote": "Little drops of water wear down big stones."
         },
         {
-            "quote":"Success is not in what you have, but who you are.",
-            "author":"Bo Bennett"
+            "author": "Pablo Casals",
+            "quote": "The person who works and is never bored is never old. Work and interest in worthwhile things are the best remedy for age."
         },
         {
-            "quote":"Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
-            "author":"Lao Tzu"
-        },
-        {
-            "quote":"The way is not in the sky. The way is in the heart.",
-            "author":"Buddha"
+            "author": "Ralph Waldo Emerson",
+            "quote": "Men succeed when they realize that their failures are the preparation for their victories."
         }
-
-	]
+    ]
 }

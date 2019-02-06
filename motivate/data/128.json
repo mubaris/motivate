@@ -1,84 +1,84 @@
 {
-  "data": [
-    {
-      "author": "Robin Sharma",
-      "quote": "Do your best and then let life do the rest."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Anyone can be a critic. What takes guts is to see the best in people."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Your habits are driving your performance. Your rituals are creating your results."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Silence is the place productive people go to think."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Greatness comes by beginning something that doesn’t end with you."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Leadership is not a title, it’s a behavior."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Your results are dependent on your devotion."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Have the guts to be true to yourself."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Blaming others is excusing yourself."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "What makes genius is not just the idea, but the execution around the idea to bring it to the world."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Never sacrifice happiness for the sake of achievement. The real key to life is to happily achieve."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Never be too busy to be kind."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "You can’t get to your next best self by clinging to who you were yesterday."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Time management is life management."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "To double your net worth, double your self-worth. Because you will never exceed the height of your self-image."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Defeat only happens when you stop believing."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Focus on being superb at what you do and, over time you will be known as remarkable."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Rewarding yourself with good things sends a message to the deepest, and the highest, part of you. One that says, ‘I’m worth it, I deserve it’."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "You were born into genius. Don’t settle for any mediocrity."
-    },
-    {
-      "author": "Robin Sharma",
-      "quote": "Make your life matter. Be of use. Serve as many people as possible. This is how each of us can shift from the ordinary to the extraordinary and walk amongst the best who ever lived."
-    }    
-  ]
+    "data": [
+        {
+            "author": "Soichiro Honda",
+            "quote": "The laboratory of a factory is the best place to learn about failure!"
+        },
+        {
+            "author": "Soichiro Honda",
+            "quote": "A company is most clearly defined not by its people or its history, but by it\u2019s products."
+        },
+        {
+            "author": "Soichiro Honda",
+            "quote": "Success is 99% failure."
+        },
+        {
+            "author": "Soichiro Honda",
+            "quote": "If I\u2019d had to manage my company myself, I would have very quickly gone bankrupt."
+        },
+        {
+            "author": "Soichiro Honda",
+            "quote": "My biggest thrill is when I plan something and it fails. My mind is then filled with ideas on how I can improve it."
+        },
+        {
+            "author": "Soichiro Honda",
+            "quote": "Hope, makes you forget all the difficult hours."
+        },
+        {
+            "author": "Soichiro Honda",
+            "quote": "I enjoy working, and it isn\u2019t because I\u2019m president that I would deprive myself of that pleasure!"
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Few are those who see with their own eyes and feel with their own hearts."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Great spirits have always encountered violent opposition from mediocre minds."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Not everything that can be counted counts, and not everything that counts can be counted."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Look deep into nature, and then you will understand everything better."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Any intelligent fool can make things bigger and more complex\u2026 It takes a touch of genius \u2013 and a lot of courage to move in the opposite direction."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "A man should look for what is, and not for what he thinks should be."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "In the middle of difficulty lies opportunity."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "A person who never made a mistake never tried anything new."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "Education is what remains after one has forgotten what one has learned in school."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "A human being is part of a whole called by us the universe."
+        },
+        {
+            "author": "Albert Einstein",
+            "quote": "The important thing is to not stop questioning. Curiosity has its own reason for existing."
+        }
+    ]
 }

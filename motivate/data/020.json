@@ -1,85 +1,84 @@
 {
     "data": [
-      {
-        "quote": "We ought to walk through the rooms of our lives not looking for flaws, but looking for potential.",
-        "author": "Ellen Goodman"
-      },
-      {
-        "quote": " If you are not willing to risk the usual you will have to settle for the ordinary. ",
-        "author": "Jim Rohn"
-      },
-      {
-        "quote": "All our dreams can come true if we have the courage to pursue them.",
-        "author": "Walt Disney"
-      },
-      {
-        "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
-        "author": "Winston Churchill"
-      },
-      {
-        "quote": "Opportunities don’t happen, you create them.",
-        "author": "Chris Grosser"
-      },
-	  {
-        "quote": "Try not to become a person of success, but rather try to become a person of value.",
-        "author": "Albert Einstein"
-      },
-      {
-        "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-        "author": "Eleanor Roosevelt"
-      },
-      {
-        "quote": " I have not failed. I’ve just found 10,000 ways that won’t work." ,
-        "author": "Thomas A. Edison"
-      },
-      {
-        "quote": "What seems to us as bitter trials are often blessings in disguise." ,
-        "author": "Oscar Wilde"
-      },
-      {
-        "quote": "The distance between insanity and genius is measured only by success. " ,
-        "author": "Bruce Feirstein"
-      },
-      {
-        "quote": "When you stop chasing the wrong things you give the right things a chance to catch you. " ,
-        "author": "Lolly Daskal"
-      },
-      {
-        "quote": "Don’t be afraid to give up the good to go for the great." ,
-        "author": "John D. Rockefeller"
-      },
-      {
-        "quote": "In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it. " ,
-        "author": "Jane Smiley"
-      },
-      {
-        "quote": "You must expect great things of yourself before you can do them." ,
-        "author": "Michael Jordan"
-      },
-      {
-        "quote": "People rarely succeed unless they have fun in what they are doing. " ,
-        "author": "Dale Carnegie"
-      },
-      {
-        "quote": "There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul. " ,
-        "author": "Ella Wheeler Wilcox"
-      },
-      {
-        "quote": "Our greatest fear should not be of failure but of succeeding at things in life that don’t really matter. " ,
-        "author": "Francis Chan"
-      },
-      {
-      	"quote":"You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction. ",
-      	"author": "George Lorimer"
-      },
-      {
-      	"quote":"To be successful you must accept all challenges that come your way. You can’t just accept the ones you like.",
-      	"author": "Mike Gafka"
-      },
-      {
-      	"quote":"To accomplish great things, we must not only act, but also dream, not only plan, but also believe.",
-      	"author": "Anatole France"
-      }
+        {
+            "author": "Philip Sidney",
+            "quote": "Either I will find a way, or I will make one."
+        },
+        {
+            "author": "Hosea Ballou",
+            "quote": "Tears of joy are like the summer rain drops pierced by sunbeams."
+        },
+        {
+            "author": "Leonard Cohen",
+            "quote": "Success is survival."
+        },
+        {
+            "author": "Andre Rieu",
+            "quote": "I know that when I like music, when it touches my heart, that it will touch your heart, too. That, I think, is the secret to my success."
+        },
+        {
+            "author": "Octavio Paz",
+            "quote": "Deserve your dream."
+        },
+        {
+            "author": "Andy Grove",
+            "quote": "Success breeds complacency. Complacency breeds failure. Only the paranoid survive."
+        },
+        {
+            "author": "Edgar Bronfman, Jr.",
+            "quote": "Commercial success still hasn't come to an artist that isn't signed to a record label. There are very few artists that can succeed without the help of a record label. The role of the record label is still required, it's still necessary."
+        },
+        {
+            "author": "Nicholas Hoult",
+            "quote": "Other people's success spurs me on to do well and gives me motivation."
+        },
+        {
+            "author": "Richard Branson",
+            "quote": "A passionate belief in your business and personal objectives can make all the difference between success and failure. If you aren't proud of what you're doing, why should anybody else be?"
+        },
+        {
+            "author": "Stephen Hawking",
+            "quote": "Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."
+        },
+        {
+            "author": "Erwin Rommel",
+            "quote": "Anyone who has to fight, even with the most modern weapons, against an enemy in complete command of the air, fights like a savage against modern European troops, under the same handicaps and with the same chances of success."
+        },
+        {
+            "author": "Vera Wang",
+            "quote": "Success isn't about the end result, it's about what you learn along the way."
+        },
+        {
+            "author": "Jimmy Dean",
+            "quote": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination."
+        },
+        {
+            "author": "Herbert Spencer",
+            "quote": "People are beginning to see that the first requisite to success in life is to be a good animal."
+        },
+        {
+            "author": "Akon",
+            "quote": "Whatever obstacle comes your way, you gotta be prepared to jump over it! And I think that's what separates the legends from the regular artists. It's all in how you manage that success, and how you deal with the controversy when it actually comes."
+        },
+        {
+            "author": "Vanessa Carlton",
+            "quote": "I have gone from being a 21-year-old with wide eyes to a 24-year-old woman. With success comes a lot of responsibility and power."
+        },
+        {
+            "author": "Ricky Williams",
+            "quote": "There's more to life than success, and if you can try to be more well-rounded, you'll be able to enjoy your success more. It won't own you or control you."
+        },
+        {
+            "author": "Lily Tomlin",
+            "quote": "The road to success is always under construction."
+        },
+        {
+            "author": "Mark Warner",
+            "quote": "My success was due to good luck, hard work, and support and advice from friends and mentors. But most importantly, it depended on me to keep trying after I had failed."
+        },
+        {
+            "author": "Sammy Davis, Jr.",
+            "quote": "The manic pursuit of success cost me everything I could love: my wife, my three children, some friends I would have liked to grow old with."
+        }
     ]
 }
-
