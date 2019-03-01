@@ -4,6 +4,8 @@ import json
 import os
 import random
 import argparse
+from colorama import init, Fore, Style
+init()
 
 
 def getlink(file):
@@ -58,7 +60,7 @@ def quote():
             quote = "\"" + quote + "\""
             author = "--" + author
             white_code = ""
-            if os.name != "nt" and not args.nocolor:
+            if not args.nocolor:
                 quote = "\033[1;36m" + quote + "\033[1;m"
                 author = "\033[1;35m" + author + "\033[1;m"
                 white_code = "\x1b[0m"
