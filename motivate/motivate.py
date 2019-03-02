@@ -4,7 +4,7 @@ import json
 import os
 import random
 import argparse
-from colorama import init, Fore, Style
+from colorama import init
 init()
 
 
