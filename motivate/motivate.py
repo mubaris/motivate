@@ -4,6 +4,8 @@ import json
 import os
 import random
 import argparse
+from colorama import init
+init()
 
 
 def getlink(file):
@@ -55,16 +57,15 @@ def quote():
         if "quote" in quotes["data"][ran_no]:
             quote = quotes["data"][ran_no]["quote"]
             author = quotes["data"][ran_no]["author"]
-            if os.name == "nt" or args.nocolor:
-                quote = "\"" + quote + "\""
-                author = "--" + author
-                white_code = ""
-            else:
-                quote = "\033[1;36m" + "\"" + quote + "\"" + "\033[1;m"
-                author = "\033[1;35m" + "--" + author + "\033[1;m"
+            quote = "\"" + quote + "\""
+            author = "--" + author
+            white_code = ""
+            if not args.nocolor:
+                quote = "\033[1;36m" + quote + "\033[1;m"
+                author = "\033[1;35m" + author + "\033[1;m"
                 white_code = "\x1b[0m"
-            output = quote + "\n\t\t" + author
-            print(output + white_code)
+            output = quote + "\n\t\t" + author + white_code
+            print(output)
         else:
             print ("---------------Debug info begins:--------------")
             print("This is a message indicating an error in your json database:")
