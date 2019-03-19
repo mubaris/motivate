@@ -1,0 +1,20 @@
+#!/bin/env bash
+
+upstream_url="https://github.com/mubaris/motivate.git"
+upstream_repo_name=$( git remote -v | grep $upstream_url | head -n1 | sed -e 's/\s.*$//')
+
+if [ -z "$upstream_repo_name" ]; then
+    upstream_repo_name="upstream"
+    git remote add $upstream_repo_name $upstream_url
+fi
+
+git fetch $upstream_repo_name master
+git merge $upstream_repo_name/master
+
+echo -e "\nUpdating database...\n"
+
+INSTALLDIR="/opt/motivate"
+
+sudo rm -rf $INSTALLDIR/data
+sudo cp -r $PWD/motivate/data $INSTALLDIR/
+sudo chmod -R 777 $INSTALLDIR/data
