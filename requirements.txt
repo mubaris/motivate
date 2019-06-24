@@ -1,0 +1,2 @@
+setuptools==36.2.2
+requests
