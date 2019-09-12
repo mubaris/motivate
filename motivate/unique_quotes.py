@@ -2,6 +2,9 @@
 
 import json
 import os
+import string
+import unicodedata
+import sys
 
 scriptpath = os.path.dirname(__file__)
 data_dir = os.path.join(scriptpath, 'data')
@@ -13,10 +16,13 @@ for f in quote_files:
 
 unique_quotes = []
 seen_quotes = set()
-for x in quotes:
-    if x['quote'] not in seen_quotes:
+remove_punct_map = dict.fromkeys(i for i in range(sys.maxunicode) if unicodedata.category(chr(i)).startswith('P'))
+for x in quotes: 
+    q = x['quote'].lower() 
+    quote = q.translate(remove_punct_map) #avoid repeats from different syntax, punctuation, cases
+    if quote not in seen_quotes:
         unique_quotes.append(x)
-        seen_quotes.add(x['quote'])		
+        seen_quotes.add(quote)	
 
 with open('data_unique/unique_quotes.json', 'w') as unique_quotes_file:
     json.dump({'data': list(unique_quotes)}, unique_quotes_file, indent=4, ensure_ascii=False)
