@@ -16,4 +16,4 @@ chmod -R 777 $INSTALLDIR/data
 
 # Copy and link the executable
 cp motivate.py $INSTALLDIR/motivate.py
-ln -f $INSTALLDIR/motivate.py /usr/local/bin/motivate
+ln -s $INSTALLDIR/motivate.py /usr/local/bin/motivate
