@@ -48,6 +48,11 @@
 			"quote":"I am not a product of my circumstances. I am a product of my decisions.",
 			"author":"Steven Covey"
 		},
+		{ 
+			
+ 			"qoute":"The Way Get Started Is To Quit Talking And Begin Doing.",
+			"author" : "Walt Disney"
+		},
 		{
 			"quote":"The only way to do great work is to love what you do.",
 			"author":"Steve Jobs"
@@ -79,6 +84,83 @@
 		{
 			"quote":"There are no limits to what you can accomplish, except the limits you place on your own thinking.",
 			"author":"Brian Tracy"
+		},
+		{
+			"qoute":"The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty",
+			"author":"Winston Churchill"
+		},
+		{
+			"qoute":"Don’t Let Yesterday Take Up Too Much Of Today.",
+			"author":"Will Rogers"
+		},
+		{
+			"qoute":"You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.",
+			"author":"Unknown"
+		},
+		{	
+			"qoute":"It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.",
+			"author":"Vince Lombardi"
+		},
+		{
+			"qoute":"If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
+			"author":"Steve Jobs"
+		},
+		{
+			"qoute":"People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.",
+			"author":"Rob Siltanen"
+		},
+		{
+			"qoute":"Failure Will Never Overtake Me If My Determination To Succeed Is Strong Enough.",
+			"author":"Og Mandino"
+		},
+		{
+			"qoute":"Entrepreneurs Are Great At Dealing With Uncertainty And Also Very Good At Minimizing Risk. That’s The Classic Entrepreneur.",
+			"author":"Mohnish Pabrai"
+		},
+		{
+			"qoute":"We May Encounter Many Defeats But We Must Not Be Defeated.",
+			"author":"Maya Angelou"
+		},
+		{
+			"qoute":"Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
+			"author":"Johann Wolfgang Von Goethe"
+		},
+		{
+			"qoute":"Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
+			"author":"Brian Tarcy"
+		},
+		{
+			"qoute":"We Generate Fears While We Sit. We Overcome Them By Action.",
+			"author":"Dr. Henry Link"
+		},
+		{
+			"qoute":"Whether You Think You Can Or Think You Can’t, You’re Right.",
+			"author":"Henery Ford"
+		},
+		{
+			"qoute":"Security Is Mostly A Superstition. Life Is Either A Daring Adventure Or Nothing.",
+			"author":"Helen Keller"
+		},
+		{
+			"qoute":"The Man Who Has Confidence In Himself Gains The Confidence Of Others.",
+			"author":"Hasidic Proverb"
+		},
+		{
+			"qoute":"The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.",
+			"author":"Franklin D. Roosevelt"
+		},
+		{
+			"qoute":"Creativity Is Intelligence Having Fun.",
+			"author":"Albert Einstein"	
+		},
+		{
+			"qoute":"What You Lack In Talent Can Be Made Up With Desire, Hustle And Giving 110% All The Time.",
+			"author":"Dom Zimmer"
+		},
+		{	
+			"qoute":"Do What You Can With All You Have, Wherever You Are.",
+			"author":"Theodore Roosevelt"
 		}
+		
 	]
-}
+}s
