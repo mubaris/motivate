@@ -7,7 +7,7 @@
 		{
 			"quote":"We should not give up and we should not allow the problem to defeat us.",
 			"author":"A.P.J. Abdul Kalam"
-		 },	
+		 },
 		{
 			"quote":"Great dreams of great dreamers are always transcended",
 			"author":"A.P.J. Abdul Kalam"
@@ -27,7 +27,7 @@
 		{
 			"quote":"The most difficult thing is the decision to act, the rest is merely tenacity.",
 			"author":"Amelia Earhart"
-		},	
+		},
 		{
 			"quote":"What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
 			"author":"Bob Dylan"
@@ -79,6 +79,34 @@
 		{
 			"quote":"There are no limits to what you can accomplish, except the limits you place on your own thinking.",
 			"author":"Brian Tracy"
-		}
+		},
+		{
+			"quote": "The Way Get Started Is To Quit Talking And Begin Doing.",
+			"author":"Walt Disney"
+		},
+		{
+			"quote":"The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty",
+			"author":"Winston Churchill"
+		},
+		{
+			"quote":"Don’t Let Yesterday Take Up Too Much Of Today.",
+			"author":"Will Rogers"
+		},
+		{
+			"quote":"You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.",
+			"author":"Unknown"
+		},
+		{
+			"quote":"It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.",
+			"author":"Vince Lombardi"
+		},
+		{
+			"quote":"If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You",
+			"author":"Steve Jobs"
+		},
+        {
+            "quote":"Don’t downgrade your dream just to fit your reality, upgrade your conviction to match your destiny.",
+			"author":"Unknown"
+        }
 	]
 }
