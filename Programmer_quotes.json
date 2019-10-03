@@ -1,0 +1,144 @@
+{
+	"data": [
+		{
+			"quote": "Talk is cheap. Show me the code.",
+			"author": "Linus Torvalds"
+		},
+		{
+			"quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+			"author": "Harold Abelson"
+		},
+		{
+			"quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
+			"author": "John Woods"
+		},
+		{
+			"quote": "How you look at it is pretty much how you'll see it",
+			"author": "Rasheed Ogunlaru"
+		},
+		{
+			"quote": "First, solve the problem. Then, write the code.",
+			"author": "John Johnson"
+		},
+		{
+			"quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+			"author": "Martin Fowler"
+		},
+		{
+			"quote": "In order to be irreplaceable, one must always be different.",
+			"author": "Coco Chanel"
+		},
+		{
+			"quote": "Java is to JavaScript what car is to Carpet.",
+			"author": "Chris Heilman"
+		},
+		{
+			"quote": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+			"author": "Antoine de Saint-Exupery"
+		},
+		{
+			"quote": "Code is like humor. When you have to explain it, it’s bad.",
+			"author": "Cory House"
+		},
+		{
+			"quote": "Fix the cause, not the symptom.",
+			"author": "Steve Maguire"
+		},
+		{
+			"quote": "Optimism is an occupational hazard of programming: feedback is the treatment. ",
+			"author": "Kent Beck"
+		},
+		{
+			"quote": "When to use iterative development? You should use iterative development only on projects that you want to succeed.",
+			"author": "Martin Fowler"
+		},
+		{
+			"quote": "Simplicity is the soul of efficiency.",
+			"author": "Austin Freeman"
+		},
+		{
+			"quote": "Before software can be reusable it first has to be usable.",
+			"author": "Ralph Johnson"
+		},
+		{
+			"quote": "Make it work, make it right, make it fast.",
+			"author": "Kent Beck"
+		},
+		{
+			"quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+			"author": "Patrick Mckenzie"
+		},
+		{
+			"quote": "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.",
+			"author": "Andy Hunt"
+		},
+		{
+			"quote": "One of the best programming skills you can have is knowing when to walk away for awhile.",
+			"author": "Oscar Godson"
+		},
+		{
+			"quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+			"author": "Louis Srygley"
+		},
+		{
+			"quote": "The best thing about a boolean is even if you are wrong, you are only off by a bit.",
+			"author": "Anonymous"
+		},
+		{
+			"quote": "Make it work, make it right, make it fast.",
+			"author": "Kent Beck"
+		},
+		{
+			"quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+			"author": " Edsger Dijkstra "
+		},
+		{
+			"quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+			"author": "Bill Gates"
+		},
+		{
+			"quote": "They don’t make bugs like Bunny anymore.",
+			"author": "Olav Mjelde"
+		},
+		{
+			"quote": "Everyday life is like programming, I guess. If you love something you can put beauty into it.",
+			"author": "Donald Knuth"
+		},
+		{
+			"quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+			"author": "Seymour Cray"
+		},
+		{
+			"quote": "Deleted code is debugged code.",
+			"author": "Jeff Sickel"
+		},
+		{
+			"quote": "Linux is only free if your time has no value. ",
+			"author": "Jamie Zawinski"
+		},
+		{
+			"quote": "Writing code has a place in the human hierarchy worth somewhere above grave robbing and beneath managing.",
+			"author": "Gerald Weinberg"
+		},
+		{
+			"quote": "Programming can be fun, so can cryptography; however they should not be combined.",
+			"author": "Kreitzberg and Shneiderman"
+		},
+		{
+			"quote": "When someone says, “I want a programming language in which I need only say what I want done,” give him a lollipop.",
+			"author": "Alan Perlis"
+		},
+		{
+			"quote": " Computers are good at following instructions, but not at reading your mind.",
+			"author": "Donald Knuth"
+		},
+		{
+			"quote": "Good design adds value faster than it adds cost.",
+			"author": "Thomas C. Gale"
+		},
+		{
+			"quote": "One of my most productive days was throwing away 1000 lines of code.",
+			"author": " Ken Thompson"
+		}
+	]
+}
