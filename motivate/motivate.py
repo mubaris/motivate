@@ -19,9 +19,15 @@ def quote():
     abspath = getlink(__file__)
 
     if os.name == 'nt':
-        data_dir = os.path.join(abspath, 'motivate', 'data')
+        if args.funny:
+            data_dir = os.path.join(abspath, 'motivate', 'data', 'funny')
+        else:
+            data_dir = os.path.join(abspath, 'motivate', 'data')
     else:
-        data_dir = os.path.join('/opt', 'motivate', 'data')
+        if args.funny:
+            data_dir = os.path.join(abspath, 'motivate', 'data', 'funny')
+        else:
+            data_dir = os.path.join('/opt', 'motivate', 'data')
 
     try:
         num_of_json = len([f for f in os.listdir(data_dir)
@@ -87,6 +93,7 @@ def quote():
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='A simple script to print random motivational quotes.')
     parser.add_argument('--no-colors', dest='nocolor', default=False, action='store_true', help='Argument to disable colored output. Disabled by default.')
+    parser.add_argument('--funny', dest='funny', default=False, action='store_true', help='Enable funny quotes and misquotes. Disabled by default.')
     args = parser.parse_args()
 
     quote()
