@@ -1,7 +1,9 @@
 # Utilitary to parse a txt file to the json format to make contributions easier
 # The file must be in the following format
-#			"quote1",Author
-#	    "quote2",Other Author
+# 	"quote1",Author
+# 	"quote2",Other Author
+# Quote and author name should be comma separated
+# Author names should not have comma character in them
 # To run: python quotes_to_json.py
 # if the quotes file is not named quotes.txt them run: python quotes_to_json.py --file="File name"
 
@@ -23,12 +25,13 @@ if __name__ == "__main__":
 	quotes = []
 	with open(file_name, 'r') as f:
 		for line in f:
-			divided_string = line.strip("\n").split('\",')
-			quote = divided_string[0].strip('\"')
-			author = divided_string[1][1:] if divided_string[1][0] == ' ' else divided_string[1]
+
+			line_split = line.strip().rsplit(',', 1)
+			assert len(line_split) == 2, f'line is not valid : {line} '
+
 			quotes.append({
-				"author":  author,
-				"quote": quote
+				"author":  line_split[1].strip(),
+				"quote": line_split[0].strip('"')
 			})
 
 	final_dictionary = {"data":quotes}
