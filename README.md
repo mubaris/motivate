@@ -8,6 +8,9 @@
 
 A simple script to print random motivational quotes. Highly influenced by linux command [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)).
 
+## Demo
+[![asciicast](https://asciinema.org/a/9QbZbZoHujl3kFH8VgiPmqzPx.svg)](https://asciinema.org/a/9QbZbZoHujl3kFH8VgiPmqzPx)
+
 ## Features
 * Colored Output
 * Supports `bash` and `zsh`
