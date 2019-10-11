@@ -6,3 +6,4 @@ rm -rf $HOME/.motivate/data/*
 cp -r $PWD/data $INSTALLDIR/
 
 chmod -R 777 $INSTALLDIR/data
+echo "Motivate quote database is updated."
