@@ -52,9 +52,15 @@ def quote():
             return
 
         ran_no = random.randint(1, len(quotes["data"])) - 1
-        if "quote" in quotes["data"][ran_no]:
-            quote = quotes["data"][ran_no]["quote"]
-            author = quotes["data"][ran_no]["author"]
+        random_quote = quotes["data"][ran_no]
+
+        random_quote_keys = [x.lower() for x in random_quote.keys()]
+
+        if "quote" in random_quote_keys:
+            # quote = quotes["data"][ran_no].get('quote', 'Quote')
+            # author = quotes["data"][ran_no].get('author', 'Author')
+            quote = quote["data"][ran_no][ [x for x in random_quote.keys() if x.lower() == 'quote'][0] ]
+            author = quote["data"][ran_no][ [x for x in random_quote.keys() if x.lower() == 'author'][0] ]
             if os.name == "nt" or args.nocolor:
                 quote = "\"" + quote + "\""
                 author = "--" + author
@@ -69,20 +75,8 @@ def quote():
             print ("---------------Debug info begins:--------------")
             print("This is a message indicating an error in your json database:")
             print("No key 'quote' is found in the file: "+filename+", item_index = "+str(ran_no))
-            print("Possibly this json file uses capitalized inital letter in its key.")
-            print("You might need to change substitute 'Quote' to 'quote', and 'Author' to 'author'.")
-            print("Try to print this problematic item:\n"+str(quotes["data"][ran_no]))
+            print("The problematic entry is :\t"+json.dumps(quotes["data"][ran_no]))
             print ("---------------Debug info ends:--------------")
-            cmd_tmp = 'sed -i "s/\"Author\"/\"author\"/g; s/\"Quote\"/\"quote\"/g" '+filename
-            print("Try to fix the problem by using command:")
-            print(cmd_tmp)
-            os.system(cmd_tmp)
-            print("Let's check the output:")
-            f_tmp = open(filename)
-            quotes = json.load(f_tmp)
-            print(str(quotes["data"][ran_no]))
-            print("Hopfully this problem has been solved.")
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='A simple script to print random motivational quotes.')
