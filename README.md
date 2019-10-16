@@ -48,7 +48,7 @@ After doing so, I found that python 2.x is enough to run this script.
 
 ### Windows
 
-* Make sure you have Python3 on your path.
+* Make sure you have Python 3x on your path.
 * Clone the repository `git clone https://github.com/mubaris/motivate.git`.
 * Add the path to your local clone to your system path.
 * Run `py -3 motivate.py` from the command prompt.
