@@ -1,4 +1,4 @@
-{
+﻿{
   	 "data": [
 		{
 			"quote":"People aren't born ordinary but they choose to be ordinary",
@@ -79,6 +79,18 @@
 		{
 			"quote":"There are no limits to what you can accomplish, except the limits you place on your own thinking.",
 			"author":"Brian Tracy"
-		}
+		},
+		{
+			"quote":"I never dreamed about success, I worked for it".
+			"author":"Estee Lauder"
+		},
+		{
+			"quote":"There is nothing more powerful in the world than the idea that came in time."
+			"author":"Victor Hugo"
+		},
+		{
+			"quote":"We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+			"author":"Aristotle"
+		},
 	]
 }
