@@ -46,7 +46,23 @@
                 }, {
                 "quote": "It takes both sunshine and rain to make a rainbow.",
                 "Author": "Anonymous"
-                }
+                },
+                {
+                    "quoteText": "We all have problems. The way we solve them is what makes us different.",
+                    "quoteAuthor": ""
+                    }, {
+                    "quoteText": "Real magic in relationships means an absence of judgement of others.",
+                    "quoteAuthor": "Wayne Dyer"
+                    }, {
+                    "quoteText": "All serious daring starts from within.",
+                    "quoteAuthor": "Harriet Beecher Stowe"
+                    }, {
+                    "quoteText": "They can do all because they think they can.",
+                    "quoteAuthor": "Virgil"
+                    }, {
+                    "quoteText": "Act as if what you do makes a difference. It does.",
+                    "quoteAuthor": "William James"
+                    }
         
     ]
 
