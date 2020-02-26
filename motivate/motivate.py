@@ -4,6 +4,7 @@ import json
 import os
 import random
 import argparse
+import time
 
 
 def getlink(file):
@@ -28,6 +29,7 @@ def quote():
                            if os.path.isfile(os.path.join(data_dir, f))])
     except FileNotFoundError:
         print("Can't find the data folder. You probably haven't run 'install.sh' yet.")
+        
         exit(1)
 
     rand_no = random.randint(1, num_of_json)
@@ -49,6 +51,7 @@ def quote():
             f_tmp.write(filename+"\n")
             f_tmp.close()
             print ("---------------Debug info ends:--------------")
+            
             return
 
         ran_no = random.randint(1, len(quotes["data"])) - 1
@@ -82,11 +85,13 @@ def quote():
             quotes = json.load(f_tmp)
             print(str(quotes["data"][ran_no]))
             print("Hopfully this problem has been solved.")
+        time.sleep(2)
+        
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='A simple script to print random motivational quotes.')
     parser.add_argument('--no-colors', dest='nocolor', default=False, action='store_true', help='Argument to disable colored output. Disabled by default.')
     args = parser.parse_args()
-
     quote()
+    
