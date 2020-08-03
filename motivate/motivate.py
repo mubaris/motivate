@@ -45,9 +45,8 @@ def quote():
             print("   However JSON don't support that. Please use '\\n' or '\\t'.")
             print("For later actions, I help you wrote this filename to JSON_ERROR_LIST.txt.")
             print("I suggest you to test those json file in this website: jsonlint.com")
-            f_tmp = open('JSON_ERROR_LIST.txt', "a")
-            f_tmp.write(filename+"\n")
-            f_tmp.close()
+            with open('JSON_ERROR_LIST.txt', "a") as f_tmp:
+                f_tmp.write(filename+"\n")
             print ("---------------Debug info ends:--------------")
             return
 
@@ -78,10 +77,10 @@ def quote():
             print(cmd_tmp)
             os.system(cmd_tmp)
             print("Let's check the output:")
-            f_tmp = open(filename)
-            quotes = json.load(f_tmp)
-            print(str(quotes["data"][ran_no]))
-            print("Hopfully this problem has been solved.")
+            with open(filename) as f_tmp:
+                quotes = json.load(f_tmp)
+                print(str(quotes["data"][ran_no]))
+                print("Hopfully this problem has been solved.")
 
 
 if __name__ == "__main__":
