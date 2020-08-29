@@ -24,7 +24,7 @@ python 3x
 ### Linux/MacOS
 
 ```
-$ git clone https://github.com/mubaris/motivate.git
+$ git clone https://github.com/avats-dev/motivate.git
 $ cd motivate/motivate
 $ sudo ./install.sh
 $ source ~/.bashrc
@@ -34,7 +34,7 @@ zsh users should replace `.bashrc` with `.zshrc`.
 
 If you have no root priviledge, install in this way:
 ```
-$ git clone https://github.com/mubaris/motivate.git
+$ git clone https://github.com/avats-dev/motivate.git
 $ cd motivate
 $ ln -s $PWD/motivate/motivate.py moti
 $ ln -s $PWD/dummy.sh mmoti
@@ -49,14 +49,14 @@ After doing so, I found that python 2.x is enough to run this script.
 ### Windows
 
 * Make sure you have Python3 on your path.
-* Clone the repository `git clone https://github.com/mubaris/motivate.git`.
+* Clone the repository `git clone https://github.com/avats-dev/motivate.git`.
 * Add the path to your local clone to your system path.
 * Run `py -3 motivate.py` from the command prompt.
 
 ## Update Database
 
 ```
-$ git clone https://github.com/mubaris/motivate.git
+$ git clone https://github.com/avats-dev/motivate.git
 $ cd motivate
 $ ./UPDATE
 ```
@@ -73,7 +73,7 @@ $ motivate
 ## Contribution
 The most popular way to contribute is adding [new quotes](https://github.com/mubaris/motivate/issues/3). You do it by adding next JSON file in `motivate/data/` directory. The rule is 20 quotes per file.
 
-Before you submit your new JSON file, it is helpful to validate your file at this [website](https://jsonlint.com/) to make sure it is formatly correct.
+Before you submit your new JSON file, it is helpful to validate your file at this [website](https://jsonlint.com/) to make sure it is formatted correctly.
 
 But any improvements are welcome - just open a pull request with some description.
 
