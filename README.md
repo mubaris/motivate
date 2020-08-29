@@ -1,6 +1,6 @@
 # Motivate
 
-[![Join the chat at https://gitter.im/motivate-new/community](https://gitter.im/motivate-new/community.svg)](https://gitter.im/motivate-new/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://img.shields.io/gitter/room/avats-dev/motivate?label=Community%20Chat&logo=Gitter&style=for-the-badge)](https://gitter.im/motivate-new/community)
 
 ![Motivate](motivate.png)
 
