@@ -1,12 +1,21 @@
 # Motivate
 
-[![Join the chat at https://gitter.im/pymotivate/Lobby](https://badges.gitter.im/pymotivate/Lobby.svg)](https://gitter.im/pymotivate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/motivate-new/community](https://gitter.im/motivate-new/community.svg)](https://gitter.im/motivate-new/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Motivate](motivate.png)
 
 <br/>
 
 A simple script to print random motivational quotes. Highly influenced by linux command [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)).
+
+## Motivate-new
+As previous repo is not maintained now, but there are a lot of people who want to contribute, I've decided to fork and continue the project. This would be active and would be maintained by me. PRs are welcome :tada:.
+
+- Feel free to open an issue for **bugs** or **feature request**.
+- Add more quotes referencing this [issue](https://github.com/avats-dev/motivate/issues/1).
+- Use the new [gitter community](https://gitter.im/motivate-new/community) to chat and communicate. 
+
+Thanks :heart:
 
 ## Features
 * Colored Output
@@ -71,10 +80,10 @@ $ motivate
 ```
 
 ## Contribution
-The most popular way to contribute is adding [new quotes](https://github.com/mubaris/motivate/issues/3). You do it by adding next JSON file in `motivate/data/` directory. The rule is 20 quotes per file.
+The most popular way to contribute is adding [new quotes](https://github.com/avats-dev/motivate/issues/1). You do it by adding next JSON file in `motivate/data/` directory. The rule is 10 quotes per file.
 
 Before you submit your new JSON file, it is helpful to validate your file at this [website](https://jsonlint.com/) to make sure it is formatted correctly.
 
-But any improvements are welcome - just open a pull request with some description.
+Bug reports and new feature ideas are welcome, open a new issue.
 
-You're also welcome to discuss the idea on [Gitter Chat](https://gitter.im/pymotivate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
+You're also welcome to discuss the idea on [Gitter Chat](https://gitter.im/motivate-new/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
