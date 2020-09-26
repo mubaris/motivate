@@ -7,6 +7,47 @@
     {
          "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
         "author": "Albert Einstein"
-    }
-    ]
+    },
+    {
+            "quote"  : "Only the paranoid survive.",
+            "author" : "Andy Grove"
+        },
+        {
+            "quote"  : "Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.",
+            "author" : "Mary Kay Ash"
+        },
+        {
+            "quote"  : "The best time to plant a tree was 20 years ago. The second best time is now.",
+            "author" : "Chinese Proverb"
+        },
+        {
+            "quote"  : "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.",
+            "author" : "Neil Gaiman"
+        },
+        {
+            "quote"  : "Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers.",
+            "author" : "Socrates"
+        },
+        {
+            "quote"  : "Whatever you are, be a good one.",
+            "author" : "Abraham Lincoln"
+        },
+        {
+            "quote"  : "The same boiling water that softens the potato hardens the egg. It’s what you’re made of. Not the circumstances.",
+            "author" : "Unknown"
+        },
+        {
+            "quote"  : "Impossible is just an opinion.",
+            "author" : "Paulo Coelho"
+        },
+        {
+            "quote"  : "Your passion is waiting for your courage to catch up.",
+            "author" : "Isabelle Lafleche"
+        },
+        {
+            "quote"  : "Leaders can let you fail and yet not let you be a failure.",
+            "author" : "Stanley McChrystal"
+        }
+        ]
+      
 }
