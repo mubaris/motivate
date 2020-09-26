@@ -7,7 +7,7 @@ Make sure these boxes are checked before your pull request (PR) is ready to be r
 
 * [ ] PR is descriptively titled 📑 and links the original issue above 🔗
 * [ ] code is in uniquely-named branch and has no merge conflicts 📁
-* [ ] screenshots/GIFs are attached 📎 if applcable
+* [ ] screenshots/GIFs are attached 📎 if applicable
 * [ ] ask `@avats-dev` for help, in a comment below
 
 > I'm happy to help you get this ready -- don't be afraid to ask for help, and **don't be discouraged** !
