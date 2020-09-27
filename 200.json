@@ -1,84 +1,84 @@
 {
   	 "data": [
 		{
-			"quote":"People aren't born ordinary but they choose to be ordinary",
-			"author": "Unknown"
+			"quote":"What one programmer can do in one month, two programmers can do in two months.",
+			"author": "Fred Brooks"
 		},
 		{
-			"quote":"We should not give up and we should not allow the problem to defeat us.",
-			"author":"A.P.J. Abdul Kalam"
+			"quote":"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+			"author":"Patrick McKenzie"
 		 },	
 		{
-			"quote":"Great dreams of great dreamers are always transcended",
-			"author":"A.P.J. Abdul Kalam"
+			"quote":"Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do it yet.",
+			"author":"Michael A. Jackson"
 		},
 		{
-			"quote":"If you don't build your dream, someone else will hire you to help them build theirs.",
-			"author":"Dhirubhai Ambani"
+			"quote":"A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want.",
+			"author":"Niklaus Wirth"
 		},
 		{
-			"quote":"Our dreams have to be bigger. Our ambitions higher. Our commitment deeper. And our efforts greater.",
-			"author":"Dhirubhai Ambani"
+			"quote":"No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.",
+			"author":"Andy Hunt"
 		},
 		{
-			"quote":"Do or do not. There is no try.",
-			"author":"Yoda"
+			"quote":"Java is to JavaScript as ham is to hamster.",
+			"author":"Jeremy Keith"
 		},
 		{
-			"quote":"The most difficult thing is the decision to act, the rest is merely tenacity.",
-			"author":"Amelia Earhart"
+			"quote":"One of the best programming skills you can have is knowing when to walk away for awhile.",
+			"author":"Oscar Godson"
 		},	
 		{
-			"quote":"What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
-			"author":"Bob Dylan"
+			"quote":"Without requirements or design, programming is the art of adding bugs to an empty text file.",
+			"author":"Louis Srygley"
 		},
 		{
-			"quote":"Certain things catch your eye, but pursue only those that capture the heart.",
-			"author":"Ancient Indian Proverb"
+			"quote":"We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.",
+			"author":"Ellen Ullman"
 		},
 		{
-			"quote":"The only person you are destined to become is the person you decide to be.",
-			"author":"Ralph Waldo Emerson"
+			"quote":" Don't comment bad code - rewrite it.",
+			"author":"Brian Kernighan"
 		},
 		{
-			"quote":"If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
-			"author":"Oprah Winfrey"
+			"quote":"A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen.",
+			"author":"Paul Graham"
 		},
 		{
-			"quote":"I am not a product of my circumstances. I am a product of my decisions.",
-			"author":"Steven Covey"
+			"quote":"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+			"author":"Dan Salomon"
 		},
 		{
-			"quote":"The only way to do great work is to love what you do.",
-			"author":"Steve Jobs"
+			"quote":"It´s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.",
+			"author":"Steve McConnell"
 		},
 		{
-			"quote":"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
-			"author":"Winston Churchill"
+			"quote":"One of my most productive days was throwing away 1000 lines of code.",
+			"author":"Ken Thompson"
 		},
 		{
-			"quote":"Don’t let yesterday take up too much of today.",
-			"author":"Will Rogers"
+			"quote":"System programmers are the high priests of a low cult.",
+			"author":"Robert S. Barton"
 		},
 		{
-			"quote":"Failure will never overtake me if my determination to succeed is strong enough.",
-			"author":"Og Mandino"
+			"quote":"I don't care if it works on your machine! We are not shipping your machine!",
+			"author":"Vidiu Platon"
 		},
 		{
-			"quote":"We may encounter many defeats but we must not be defeated.",
-			"author":"Maya Angelou"
+			"quote":"Measuring programming progree by lines of code is like measuring aircraft building progree by weight.",
+			"author":"Bill Gates"
 		},
 		{
-			"quote":"To see what is right and not do it is a lack of courage.",
-			"author":"Confucious"
+			"quote":" If debudding is the process of removing software bugs, then programming must be the process of putting them in.",
+			"author":"Edsger W. Dijkstra"
 		},
 		{
-			"quote":"Today’s accomplishments were yesterday’s impossibilities.",
-			"author":"Robert H. Schuller"
+			"quote":" The computer was born to solve problems that did not exist before.",
+			"author":"Bill Gates"
 		},
 		{
-			"quote":"There are no limits to what you can accomplish, except the limits you place on your own thinking.",
-			"author":"Brian Tracy"
+			"quote":"Always code as if the guy who ends up maintaning your code will be a violent psychopath who knows where you live.",
+			"author":"Rick Osborne"
 		}
 	]
 }
