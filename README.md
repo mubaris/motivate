@@ -92,7 +92,7 @@ $ motivate
 ---
 
 ## Contribution
-The most popular way to contribute is adding [new quotes](https://github.com/avats-dev/motivate/issues/1). You do it by adding next JSON file in `motivate/data/` directory. The rule is 10 quotes per file. 
+The most popular way to contribute is adding [new quotes](https://github.com/avats-dev/motivate/issues/1). You do it by adding next JSON file in `motivate/data/` directory. The rule is maximum 20 quotes and minimum 5 per file and a contributor can commit only one file. 
 
 **IMPORTANT --> Name your file as `your-github-username.json` to avoid conflicts in case of consequent PRs. Thanks.**
 
