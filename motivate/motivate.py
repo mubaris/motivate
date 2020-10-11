@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 
+import argparse
 import json
 import os
 import random
-import argparse
-
+from quotes_byAuthor import quotes_byAuthor
+from rich.console import Console
+from rich.panel import Panel
 
 def getlink(file):
     if os.path.islink(file):
@@ -53,18 +55,18 @@ def quote():
 
         ran_no = random.randint(1, len(quotes["data"])) - 1
         if "quote" in quotes["data"][ran_no]:
-            quote = quotes["data"][ran_no]["quote"]
             author = quotes["data"][ran_no]["author"]
+            quote = quotes["data"][ran_no]["quote"]
             if os.name == "nt" or args.nocolor:
                 quote = "\"" + quote + "\""
                 author = "--" + author
-                white_code = ""
             else:
-                quote = "\033[1;36m" + "\"" + quote + "\"" + "\033[1;m"
-                author = "\033[1;35m" + "--" + author + "\033[1;m"
-                white_code = "\x1b[0m"
-            output = quote + "\n\t\t" + author
-            print(output + white_code)
+                quote = f"[b]{quote}[/b]"
+                author = f'[yellow]--{author}'
+                #white_code = "\x1b[0m"
+            output = f"{quote}\n{author}"
+            console = Console()
+            console.print(Panel(output, expand=False ))
         else:
             print ("---------------Debug info begins:--------------")
             print("This is a message indicating an error in your json database:")
@@ -87,6 +89,10 @@ def quote():
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='A simple script to print random motivational quotes.')
     parser.add_argument('--no-colors', dest='nocolor', default=False, action='store_true', help='Argument to disable colored output. Disabled by default.')
+    parser.add_argument('-a' , '--author' , type=str, help="Random quote by auther" )
     args = parser.parse_args()
 
-    quote()
+    if args.author:
+        quotes_byAuthor(args)
+    else:
+        quote()
