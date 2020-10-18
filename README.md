@@ -1,12 +1,25 @@
 # Motivate
 
-[![Join the chat at https://gitter.im/pymotivate/Lobby](https://badges.gitter.im/pymotivate/Lobby.svg)](https://gitter.im/pymotivate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://img.shields.io/gitter/room/avats-dev/motivate?label=Community%20Chat&logo=Gitter&style=for-the-badge)](https://gitter.im/motivate-new/community)
 
 ![Motivate](motivate.png)
 
 <br/>
 
 A simple script to print random motivational quotes. Highly influenced by linux command [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)).
+
+---
+
+## Motivate-new
+As previous repo is not maintained now, but there are a lot of people who want to contribute, I've decided to fork and continue the project. This would be active and would be maintained by me. PRs are welcome :tada:.
+
+- Feel free to open an issue for **bugs** or **feature request**.
+- Add more quotes referencing this [issue](https://github.com/avats-dev/motivate/issues/1).
+- Use the new [gitter community](https://gitter.im/motivate-new/community) to chat and communicate. 
+
+Thanks :heart:
+
+---
 
 ## Features
 * Colored Output
@@ -19,12 +32,14 @@ git
 python 3x
 ```
 
+---
+
 ## Installation
 
 ### Linux/MacOS
 
 ```
-$ git clone https://github.com/mubaris/motivate.git
+$ git clone https://github.com/avats-dev/motivate.git
 $ cd motivate/motivate
 $ sudo ./install.sh
 $ source ~/.bashrc
@@ -34,7 +49,7 @@ zsh users should replace `.bashrc` with `.zshrc`.
 
 If you have no root priviledge, install in this way:
 ```
-$ git clone https://github.com/mubaris/motivate.git
+$ git clone https://github.com/avats-dev/motivate.git
 $ cd motivate
 $ ln -s $PWD/motivate/motivate.py moti
 $ ln -s $PWD/dummy.sh mmoti
@@ -49,17 +64,21 @@ After doing so, I found that python 2.x is enough to run this script.
 ### Windows
 
 * Make sure you have Python3 on your path.
-* Clone the repository `git clone https://github.com/mubaris/motivate.git`.
+* Clone the repository `git clone https://github.com/avats-dev/motivate.git`.
 * Add the path to your local clone to your system path.
 * Run `py -3 motivate.py` from the command prompt.
+
+---
 
 ## Update Database
 
 ```
-$ git clone https://github.com/mubaris/motivate.git
+$ git clone https://github.com/avats-dev/motivate.git
 $ cd motivate
 $ ./UPDATE
 ```
+
+---
 
 ## Usage
 
@@ -70,11 +89,15 @@ $ motivate
 		--Elon Musk
 ```
 
+---
+
 ## Contribution
-The most popular way to contribute is adding [new quotes](https://github.com/mubaris/motivate/issues/3). You do it by adding next JSON file in `motivate/data/` directory. The rule is 20 quotes per file.
+The most popular way to contribute is adding [new quotes](https://github.com/avats-dev/motivate/issues/1). You do it by adding next JSON file in `motivate/data/` directory. The rule is maximum 20 quotes and minimum 5 per file and a contributor can commit only one file. 
 
-Before you submit your new JSON file, it is helpful to validate your file at this [website](https://jsonlint.com/) to make sure it is formatly correct.
+**IMPORTANT --> Name your file as `your-github-username.json` to avoid conflicts in case of consequent PRs. Thanks.**
 
-But any improvements are welcome - just open a pull request with some description.
+Before you submit your new JSON file, it is helpful to validate your file at this [website](https://jsonlint.com/) to make sure it is formatted correctly.
 
-You're also welcome to discuss the idea on [Gitter Chat](https://gitter.im/pymotivate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
+Bug reports and new feature ideas are welcome, open a new issue.
+
+You're also welcome to discuss the idea on [Gitter Chat](https://gitter.im/motivate-new/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
