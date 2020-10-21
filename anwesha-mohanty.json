@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "author": "Anne Frank",
+            "quote" : "Everyone has inside them a piece of good news. The good news is you don’t know how great you can be! How much you can love! What you can accomplish! And what your potential is."
+        },
+        {
+            "author": "Mark Cuban",
+             "quote" : "Work like there is someone working twenty four hours a day to take it away from you."
+
+        },
+        {
+            "author" : "Wayne Dyer",
+            "quote": "If you believe it’ll work out, you’ll see opportunities. If you don’t believe it’ll work out, you’ll see obstacles."
+        },
+        {
+            "author" : "Michael Jordan",
+            "quote" : "Some people want it to happen, some wish it would happen, others make it happen."
+        },
+        {
+            "author": "Walt Disney" ,
+            "quote" : "The Way Get Started Is To Quit Talking And Begin Doing."
+        },
+        {
+            "author":"Dr. Henry Link" ,
+            "quote" : "We Generate Fears While We Sit. We Overcome Them By Action."
+        },
+        {
+            "author": "Maya Angelou" ,
+            "quote" : "Whatever you want to do, if you want to be great at it, you have to love it and be able to make sacrifices for it."
+            
+        },
+        {
+            "author": "Dr. Seuss",
+            "quote" : "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go"
+        },
+        {
+            "author": "Socrates",
+            "quote":"The secret of change is to focus all your energy, not on fighting the old, but on building the new."
+        },
+        {
+            "author": "Oprah Winfrey",
+            "quote":"Failure isn’t the end of the road. It’s a big red flag saying to you ‘Wrong way. Turn around."
+        },
+        {
+            "author": "Bruce Lee",
+            "quote" : "There are no limits. There are only plateaus, and you must not stay there; you must go beyond them."
+        },
+        {
+            "author": "Muhammad Ali",
+            "quote" : "Often it isn't the mountains that wear you out, it's the little pebble in your shoe."
+        },
+        {
+            "author": "H W Longfellow",
+            "quote" :"Trust no Future, however pleasant! Let the dead Past bury its dead! Act,act in the living Present! Heart within, and God overhead"
+        },
+        {
+            "author":"Jennae Cecilia",
+            "quote" : "Flowers grow back even after the harshest winters. You will too."
+        },
+        {
+            "author" : "Paulo Coelho",
+            "quote" : "Life has many ways of testing a person’s will, either by having nothing happen at all or by having everything happen all at once."
+        }
+
+        
+    ]
+
+}
