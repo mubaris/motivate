@@ -6,7 +6,7 @@ import datetime
 root = tk.Tk()
 root.title("Motivation")
 root.configure(background='white')
-command=os.getcwd()+'/motivate/motivate.py'
+command='python '+os.getcwd()+'/motivate/motivate.py'
 quote=os.popen(command).read()
 color=random.choice(['green','blue','purple','red','orange','brown','magenta','violet','maroon','olive','lime','teal','navy','DarkSlateGray','m','indigo','crimson'])
 label=tk.Label(root, text = quote ,fg=color, bg='white', font='Helvetica 10',wraplength=900).pack()
